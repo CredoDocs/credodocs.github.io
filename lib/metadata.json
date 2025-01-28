@@ -1,60 +1,11 @@
 {
   "vaultName": "Crossworld",
-  "lastExport": 1738057988144,
+  "lastExport": 1738058580422,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "__Home/Основная информация.md",
-    "__Home/Системы и механики.md",
-    "__Home/Список историй.md",
-    "_Навигация Хранилища/Глоссарий тегов.md",
-    "_Навигация Хранилища/Хранилище.Истории.md",
-    "_Навигация Хранилища/Хранилище.МейнИстория.md",
-    "_Навигация Хранилища/Хранилище.ОсновноеМеню.md",
-    "_Навигация Хранилища/Хранилище.ПроводникСмерти.md",
-    "_Навигация Хранилища/Хранилище.Самурай.md",
-    "_Навигация Хранилища/Хранилище.СистемыМеханики.md",
-    "_Навигация Хранилища/Хранилище.ЧувствоРеальности.md",
-    "_Навигация Хранилища/Хранилище.ШколаЭсперов.md",
-    "_Cashes/Концепты персонажей/Гаэль.png",
-    "_Cashes/1.1.Раскадровка.jpg",
-    "_Cashes/1.Задумка.png",
-    "_Cashes/1.Раскадровка.jpg",
-    "_Cashes/2.Задумка.png",
-    "_Cashes/Ганс.png",
-    "_Cashes/Гаэль.png",
-    "_Cashes/Гаэль 1.png",
-    "_Cashes/Гаэль_дляпоста.png",
-    "_Cashes/Гретель.png",
-    "_Cashes/Гретель 1.png",
-    "_Cashes/Даин.png",
-    "_Cashes/Зиль.png",
-    "_Cashes/Комната Даина (1).md",
-    "_Cashes/Кот.png",
-    "_Cashes/Мария.png",
-    "_Cashes/Марта.png",
-    "_Cashes/Cat.png",
-    "_Cashes/Dain.png",
-    "_Cashes/Dain_room_1080x1920.png",
-    "_Cashes/Door_v_Nexus_1080x1920.png",
-    "_Cashes/Dvor_1080x1920.png",
-    "_Cashes/Dvor_2400x3300.png",
-    "_Cashes/Gael.png",
-    "_Cashes/Gael_room_1080x1920.png",
-    "_Cashes/Gans.png",
-    "_Cashes/Gretel.png",
-    "_Cashes/Gretel_room_1080x1920.png",
-    "_Cashes/Gretel_room_1080x1920 1.png",
-    "_Cashes/Home_1080x1920.png",
-    "_Cashes/Krilco_1080x1920.png",
-    "_Cashes/Kuchnya_1080x1920.png",
-    "_Cashes/Marta.png",
-    "_Cashes/Mary.png",
-    "_Cashes/Pasted image 20250113142857.png",
-    "_Cashes/Portrait.png",
-    "_Cashes/Ziel.png",
     "Ведение соц сетей/Истории Дерека/27 ноября 320г от Отречения.md",
     "Ведение соц сетей/Комиксы/Гаэль и самоубийца/Все стадии.canvas",
     "Ведение соц сетей/Комиксы/Гаэль и самоубийца/Фабула.md",
@@ -169,6 +120,15 @@
     "Меню/Меню персонажа.md",
     "Монетизация/Все мысли.md",
     "Монетизация/Идеи.md",
+    "Навигация Хранилища/Глоссарий тегов.md",
+    "Навигация Хранилища/Хранилище.Истории.md",
+    "Навигация Хранилища/Хранилище.МейнИстория.md",
+    "Навигация Хранилища/Хранилище.ОсновноеМеню.md",
+    "Навигация Хранилища/Хранилище.ПроводникСмерти.md",
+    "Навигация Хранилища/Хранилище.Самурай.md",
+    "Навигация Хранилища/Хранилище.СистемыМеханики.md",
+    "Навигация Хранилища/Хранилище.ЧувствоРеальности.md",
+    "Навигация Хранилища/Хранилище.ШколаЭсперов.md",
     "Настройки/Внутренние настройки.md",
     "Настройки/Графические настройки.md",
     "Настройки/Настройки.md",
@@ -210,7 +170,77 @@
     "Системы/Система выборов.md",
     "Системы/Система переходов.md",
     "Системы/Система подведения итогов главы.md",
+    "Cashes/Концепты персонажей/Гаэль.png",
+    "Cashes/1.1.Раскадровка.jpg",
+    "Cashes/1.Задумка.png",
+    "Cashes/1.Раскадровка.jpg",
+    "Cashes/2.Задумка.png",
+    "Cashes/Ганс.png",
+    "Cashes/Гаэль.png",
+    "Cashes/Гаэль 1.png",
+    "Cashes/Гаэль_дляпоста.png",
+    "Cashes/Гретель.png",
+    "Cashes/Гретель 1.png",
+    "Cashes/Даин.png",
+    "Cashes/Зиль.png",
+    "Cashes/Комната Даина (1).md",
+    "Cashes/Кот.png",
+    "Cashes/Мария.png",
+    "Cashes/Марта.png",
+    "Cashes/Cat.png",
+    "Cashes/Dain.png",
+    "Cashes/Dain_room_1080x1920.png",
+    "Cashes/Door_v_Nexus_1080x1920.png",
+    "Cashes/Dvor_1080x1920.png",
+    "Cashes/Dvor_2400x3300.png",
+    "Cashes/Gael.png",
+    "Cashes/Gael_room_1080x1920.png",
+    "Cashes/Gans.png",
+    "Cashes/Gretel.png",
+    "Cashes/Gretel_room_1080x1920.png",
+    "Cashes/Gretel_room_1080x1920 1.png",
+    "Cashes/Home_1080x1920.png",
+    "Cashes/Krilco_1080x1920.png",
+    "Cashes/Kuchnya_1080x1920.png",
+    "Cashes/Marta.png",
+    "Cashes/Mary.png",
+    "Cashes/Pasted image 20250113142857.png",
+    "Cashes/Portrait.png",
+    "Cashes/Ziel.png",
     "index.md",
+    "lib/media/2.задумка.png",
+    "lib/media/1.задумка.png",
+    "lib/media/1.раскадровка.jpg",
+    "lib/media/1.1.раскадровка.jpg",
+    "lib/media/гаэль_дляпоста.png",
+    "lib/media/door_v_nexus_1080x1920.png",
+    "lib/media/dvor_1080x1920.png",
+    "lib/media/dvor_2400x3300.png",
+    "lib/media/home_1080x1920.png",
+    "lib/media/gael_room_1080x1920.png",
+    "lib/media/gretel_room_1080x1920-1.png",
+    "lib/media/dain_room_1080x1920.png",
+    "lib/media/krilco_1080x1920.png",
+    "lib/media/kuchnya_1080x1920.png",
+    "lib/media/portrait.png",
+    "lib/media/ганс.png",
+    "lib/media/gans.png",
+    "lib/media/гаэль.png",
+    "lib/media/гаэль-1.png",
+    "lib/media/gael.png",
+    "lib/media/гретель.png",
+    "lib/media/gretel.png",
+    "lib/media/гретель-1.png",
+    "lib/media/даин.png",
+    "lib/media/dain.png",
+    "lib/media/зиль.png",
+    "lib/media/ziel.png",
+    "lib/media/cat.png",
+    "lib/media/кот.png",
+    "lib/media/мария.png",
+    "lib/media/mary.png",
+    "lib/media/marta.png",
+    "lib/media/pasted-image-20250113142857.png",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -224,7 +254,14 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg"
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
   ],
   "mainDependencies": [
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -240,1321 +277,1607 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg"
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "__Home/Основная информация.md": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 497,
-      "exportedPath": "__Home/Основная информация.html",
-      "dependencies": []
-    },
-    "__Home/Системы и механики.md": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 252,
-      "exportedPath": "__Home/Системы и механики.html",
-      "dependencies": []
-    },
-    "__Home/Список историй.md": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 186,
-      "exportedPath": "__Home/Список историй.html",
-      "dependencies": []
-    },
-    "_Навигация Хранилища/Глоссарий тегов.md": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1027,
-      "exportedPath": "_Навигация Хранилища/Глоссарий тегов.html",
-      "dependencies": []
-    },
-    "_Навигация Хранилища/Хранилище.Истории.md": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1487,
-      "exportedPath": "_Навигация Хранилища/Хранилище.Истории.html",
-      "dependencies": []
-    },
-    "_Навигация Хранилища/Хранилище.МейнИстория.md": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 0,
-      "exportedPath": "_Навигация Хранилища/Хранилище.МейнИстория.html",
-      "dependencies": []
-    },
-    "_Навигация Хранилища/Хранилище.ОсновноеМеню.md": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 958,
-      "exportedPath": "_Навигация Хранилища/Хранилище.ОсновноеМеню.html",
-      "dependencies": []
-    },
-    "_Навигация Хранилища/Хранилище.ПроводникСмерти.md": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 0,
-      "exportedPath": "_Навигация Хранилища/Хранилище.ПроводникСмерти.html",
-      "dependencies": []
-    },
-    "_Навигация Хранилища/Хранилище.Самурай.md": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 0,
-      "exportedPath": "_Навигация Хранилища/Хранилище.Самурай.html",
-      "dependencies": []
-    },
-    "_Навигация Хранилища/Хранилище.СистемыМеханики.md": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 0,
-      "exportedPath": "_Навигация Хранилища/Хранилище.СистемыМеханики.html",
-      "dependencies": []
-    },
-    "_Навигация Хранилища/Хранилище.ЧувствоРеальности.md": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 0,
-      "exportedPath": "_Навигация Хранилища/Хранилище.ЧувствоРеальности.html",
-      "dependencies": []
-    },
-    "_Навигация Хранилища/Хранилище.ШколаЭсперов.md": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 0,
-      "exportedPath": "_Навигация Хранилища/Хранилище.ШколаЭсперов.html",
-      "dependencies": []
-    },
-    "_Cashes/Концепты персонажей/Гаэль.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 305825,
-      "exportedPath": "_Cashes/Концепты персонажей/Гаэль.png",
-      "dependencies": []
-    },
-    "_Cashes/1.1.Раскадровка.jpg": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 107137,
-      "exportedPath": "_Cashes/1.1.Раскадровка.jpg",
-      "dependencies": []
-    },
-    "_Cashes/1.Задумка.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 246089,
-      "exportedPath": "_Cashes/1.Задумка.png",
-      "dependencies": []
-    },
-    "_Cashes/1.Раскадровка.jpg": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 116235,
-      "exportedPath": "_Cashes/1.Раскадровка.jpg",
-      "dependencies": []
-    },
-    "_Cashes/2.Задумка.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 100711,
-      "exportedPath": "_Cashes/2.Задумка.png",
-      "dependencies": []
-    },
-    "_Cashes/Ганс.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1609472,
-      "exportedPath": "_Cashes/Ганс.png",
-      "dependencies": []
-    },
-    "_Cashes/Гаэль.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1272814,
-      "exportedPath": "_Cashes/Гаэль.png",
-      "dependencies": []
-    },
-    "_Cashes/Гаэль 1.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1530251,
-      "exportedPath": "_Cashes/Гаэль 1.png",
-      "dependencies": []
-    },
-    "_Cashes/Гаэль_дляпоста.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1422904,
-      "exportedPath": "_Cashes/Гаэль_дляпоста.png",
-      "dependencies": []
-    },
-    "_Cashes/Гретель.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 970069,
-      "exportedPath": "_Cashes/Гретель.png",
-      "dependencies": []
-    },
-    "_Cashes/Гретель 1.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1374820,
-      "exportedPath": "_Cashes/Гретель 1.png",
-      "dependencies": []
-    },
-    "_Cashes/Даин.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1749765,
-      "exportedPath": "_Cashes/Даин.png",
-      "dependencies": []
-    },
-    "_Cashes/Зиль.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1295170,
-      "exportedPath": "_Cashes/Зиль.png",
-      "dependencies": []
-    },
-    "_Cashes/Комната Даина (1).md": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 248,
-      "exportedPath": "_Cashes/Комната Даина (1).html",
-      "dependencies": []
-    },
-    "_Cashes/Кот.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1048207,
-      "exportedPath": "_Cashes/Кот.png",
-      "dependencies": []
-    },
-    "_Cashes/Мария.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1238698,
-      "exportedPath": "_Cashes/Мария.png",
-      "dependencies": []
-    },
-    "_Cashes/Марта.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1483196,
-      "exportedPath": "_Cashes/Марта.png",
-      "dependencies": []
-    },
-    "_Cashes/Cat.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 243370,
-      "exportedPath": "_Cashes/Cat.png",
-      "dependencies": []
-    },
-    "_Cashes/Dain.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 502959,
-      "exportedPath": "_Cashes/Dain.png",
-      "dependencies": []
-    },
-    "_Cashes/Dain_room_1080x1920.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1633865,
-      "exportedPath": "_Cashes/Dain_room_1080x1920.png",
-      "dependencies": []
-    },
-    "_Cashes/Door_v_Nexus_1080x1920.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1445145,
-      "exportedPath": "_Cashes/Door_v_Nexus_1080x1920.png",
-      "dependencies": []
-    },
-    "_Cashes/Dvor_1080x1920.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1849284,
-      "exportedPath": "_Cashes/Dvor_1080x1920.png",
-      "dependencies": []
-    },
-    "_Cashes/Dvor_2400x3300.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 5626065,
-      "exportedPath": "_Cashes/Dvor_2400x3300.png",
-      "dependencies": []
-    },
-    "_Cashes/Gael.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 409715,
-      "exportedPath": "_Cashes/Gael.png",
-      "dependencies": []
-    },
-    "_Cashes/Gael_room_1080x1920.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1876928,
-      "exportedPath": "_Cashes/Gael_room_1080x1920.png",
-      "dependencies": []
-    },
-    "_Cashes/Gans.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 417155,
-      "exportedPath": "_Cashes/Gans.png",
-      "dependencies": []
-    },
-    "_Cashes/Gretel.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 418412,
-      "exportedPath": "_Cashes/Gretel.png",
-      "dependencies": []
-    },
-    "_Cashes/Gretel_room_1080x1920.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 4201904,
-      "exportedPath": "_Cashes/Gretel_room_1080x1920.png",
-      "dependencies": []
-    },
-    "_Cashes/Gretel_room_1080x1920 1.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 4201904,
-      "exportedPath": "_Cashes/Gretel_room_1080x1920 1.png",
-      "dependencies": []
-    },
-    "_Cashes/Home_1080x1920.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1972606,
-      "exportedPath": "_Cashes/Home_1080x1920.png",
-      "dependencies": []
-    },
-    "_Cashes/Krilco_1080x1920.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1625931,
-      "exportedPath": "_Cashes/Krilco_1080x1920.png",
-      "dependencies": []
-    },
-    "_Cashes/Kuchnya_1080x1920.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 2153804,
-      "exportedPath": "_Cashes/Kuchnya_1080x1920.png",
-      "dependencies": []
-    },
-    "_Cashes/Marta.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 423451,
-      "exportedPath": "_Cashes/Marta.png",
-      "dependencies": []
-    },
-    "_Cashes/Mary.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 345565,
-      "exportedPath": "_Cashes/Mary.png",
-      "dependencies": []
-    },
-    "_Cashes/Pasted image 20250113142857.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 121651,
-      "exportedPath": "_Cashes/Pasted image 20250113142857.png",
-      "dependencies": []
-    },
-    "_Cashes/Portrait.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 73165,
-      "exportedPath": "_Cashes/Portrait.png",
-      "dependencies": []
-    },
-    "_Cashes/Ziel.png": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 377613,
-      "exportedPath": "_Cashes/Ziel.png",
-      "dependencies": []
-    },
     "Ведение соц сетей/Истории Дерека/27 ноября 320г от Отречения.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Ведение соц сетей/Истории Дерека/27 ноября 320г от Отречения.html",
+      "exportedPath": "ведение-соц-сетей/истории-дерека/27-ноября-320г-от-отречения.html",
       "dependencies": []
     },
     "Ведение соц сетей/Комиксы/Гаэль и самоубийца/Все стадии.canvas": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 836,
-      "exportedPath": "Ведение соц сетей/Комиксы/Гаэль и самоубийца/Все стадии.html",
-      "dependencies": []
+      "modifiedTime": 1738058580422,
+      "sourceSize": 835,
+      "exportedPath": "ведение-соц-сетей/комиксы/гаэль-и-самоубийца/все-стадии.html",
+      "dependencies": [
+        "lib/media/2.задумка.png"
+      ]
     },
     "Ведение соц сетей/Комиксы/Гаэль и самоубийца/Фабула.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 516,
-      "exportedPath": "Ведение соц сетей/Комиксы/Гаэль и самоубийца/Фабула.html",
+      "exportedPath": "ведение-соц-сетей/комиксы/гаэль-и-самоубийца/фабула.html",
       "dependencies": []
     },
     "Ведение соц сетей/Комиксы/Сон Гаэля и Кот/Все стадии.canvas": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1342,
-      "exportedPath": "Ведение соц сетей/Комиксы/Сон Гаэля и Кот/Все стадии.html",
-      "dependencies": []
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1339,
+      "exportedPath": "ведение-соц-сетей/комиксы/сон-гаэля-и-кот/все-стадии.html",
+      "dependencies": [
+        "lib/media/1.задумка.png",
+        "lib/media/1.раскадровка.jpg",
+        "lib/media/1.1.раскадровка.jpg"
+      ]
     },
     "Ведение соц сетей/Комиксы/Сон Гаэля и Кот/Текст для соц сети.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 100,
-      "exportedPath": "Ведение соц сетей/Комиксы/Сон Гаэля и Кот/Текст для соц сети.html",
+      "exportedPath": "ведение-соц-сетей/комиксы/сон-гаэля-и-кот/текст-для-соц-сети.html",
       "dependencies": []
     },
     "Ведение соц сетей/Комиксы/Сон Гаэля и Кот/Фабула.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 582,
-      "exportedPath": "Ведение соц сетей/Комиксы/Сон Гаэля и Кот/Фабула.html",
+      "exportedPath": "ведение-соц-сетей/комиксы/сон-гаэля-и-кот/фабула.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/Анонс демо-версии.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 659,
-      "exportedPath": "Ведение соц сетей/Посты/Анонс демо-версии.html",
+      "exportedPath": "ведение-соц-сетей/посты/анонс-демо-версии.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/Выход демки.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 1267,
-      "exportedPath": "Ведение соц сетей/Посты/Выход демки.html",
+      "exportedPath": "ведение-соц-сетей/посты/выход-демки.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/Демо-версия в пятницу.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 680,
-      "exportedPath": "Ведение соц сетей/Посты/Демо-версия в пятницу.html",
+      "exportedPath": "ведение-соц-сетей/посты/демо-версия-в-пятницу.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/Знакомство с Гаэлем.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 1461,
-      "exportedPath": "Ведение соц сетей/Посты/Знакомство с Гаэлем.html",
-      "dependencies": []
+      "exportedPath": "ведение-соц-сетей/посты/знакомство-с-гаэлем.html",
+      "dependencies": [
+        "lib/media/гаэль_дляпоста.png"
+      ]
     },
     "Ведение соц сетей/Посты/Новый художник 22.11.24.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 707,
-      "exportedPath": "Ведение соц сетей/Посты/Новый художник 22.11.24.html",
+      "exportedPath": "ведение-соц-сетей/посты/новый-художник-22.11.24.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/Отчет 10.11.24.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 1085,
-      "exportedPath": "Ведение соц сетей/Посты/Отчет 10.11.24.html",
+      "exportedPath": "ведение-соц-сетей/посты/отчет-10.11.24.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/Отчет 22.11.2024.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 1432,
-      "exportedPath": "Ведение соц сетей/Посты/Отчет 22.11.2024.html",
+      "exportedPath": "ведение-соц-сетей/посты/отчет-22.11.2024.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/План.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 400,
-      "exportedPath": "Ведение соц сетей/Посты/План.html",
+      "exportedPath": "ведение-соц-сетей/посты/план.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/Пост времени редактора.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 2857,
-      "exportedPath": "Ведение соц сетей/Посты/Пост времени редактора.html",
+      "exportedPath": "ведение-соц-сетей/посты/пост-времени-редактора.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/Пост демоверсии + итерации интерфейса.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 671,
-      "exportedPath": "Ведение соц сетей/Посты/Пост демоверсии + итерации интерфейса.html",
+      "exportedPath": "ведение-соц-сетей/посты/пост-демоверсии-+-итерации-интерфейса.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/Пост о будущих обновах.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 1886,
-      "exportedPath": "Ведение соц сетей/Посты/Пост о будущих обновах.html",
+      "exportedPath": "ведение-соц-сетей/посты/пост-о-будущих-обновах.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/Пост о знакомстве.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 1359,
-      "exportedPath": "Ведение соц сетей/Посты/Пост о знакомстве.html",
+      "exportedPath": "ведение-соц-сетей/посты/пост-о-знакомстве.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/Пост о концовках.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 1229,
-      "exportedPath": "Ведение соц сетей/Посты/Пост о концовках.html",
+      "exportedPath": "ведение-соц-сетей/посты/пост-о-концовках.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/Пост о проделанной работе и будущих наметках.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Ведение соц сетей/Посты/Пост о проделанной работе и будущих наметках.html",
+      "exportedPath": "ведение-соц-сетей/посты/пост-о-проделанной-работе-и-будущих-наметках.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/Пост о сложности совмещения работы.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Ведение соц сетей/Посты/Пост о сложности совмещения работы.html",
+      "exportedPath": "ведение-соц-сетей/посты/пост-о-сложности-совмещения-работы.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/Пост о Crossworld.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 2132,
-      "exportedPath": "Ведение соц сетей/Посты/Пост о Crossworld.html",
+      "exportedPath": "ведение-соц-сетей/посты/пост-о-crossworld.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/Пост о Death Guide.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 2325,
-      "exportedPath": "Ведение соц сетей/Посты/Пост о Death Guide.html",
+      "exportedPath": "ведение-соц-сетей/посты/пост-о-death-guide.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/Пост об остальных историях.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 757,
-      "exportedPath": "Ведение соц сетей/Посты/Пост об остальных историях.html",
+      "exportedPath": "ведение-соц-сетей/посты/пост-об-остальных-историях.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/Пост с крупицей лора Crossworld.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 927,
-      "exportedPath": "Ведение соц сетей/Посты/Пост с крупицей лора Crossworld.html",
+      "exportedPath": "ведение-соц-сетей/посты/пост-с-крупицей-лора-crossworld.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/Пост с навигацией.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 1203,
-      "exportedPath": "Ведение соц сетей/Посты/Пост с навигацией.html",
+      "exportedPath": "ведение-соц-сетей/посты/пост-с-навигацией.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/Пост с приветствием.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 1567,
-      "exportedPath": "Ведение соц сетей/Посты/Пост с приветствием.html",
+      "exportedPath": "ведение-соц-сетей/посты/пост-с-приветствием.html",
       "dependencies": []
     },
     "Ведение соц сетей/Посты/Пост с фидбеком.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 789,
-      "exportedPath": "Ведение соц сетей/Посты/Пост с фидбеком.html",
+      "exportedPath": "ведение-соц-сетей/посты/пост-с-фидбеком.html",
       "dependencies": []
     },
     "Ведение соц сетей/Второстепенные истории Гаэля.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Ведение соц сетей/Второстепенные истории Гаэля.html",
+      "exportedPath": "ведение-соц-сетей/второстепенные-истории-гаэля.html",
       "dependencies": []
     },
     "Ведение соц сетей/Гаэль и его спутники.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 498,
-      "exportedPath": "Ведение соц сетей/Гаэль и его спутники.html",
+      "exportedPath": "ведение-соц-сетей/гаэль-и-его-спутники.html",
       "dependencies": []
     },
     "Ведение соц сетей/Записки безумца.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Ведение соц сетей/Записки безумца.html",
+      "exportedPath": "ведение-соц-сетей/записки-безумца.html",
       "dependencies": []
     },
     "Ведение соц сетей/Идеи доп контента.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 3022,
-      "exportedPath": "Ведение соц сетей/Идеи доп контента.html",
+      "exportedPath": "ведение-соц-сетей/идеи-доп-контента.html",
       "dependencies": []
     },
     "Ведение соц сетей/Истории по второстепенным персонажам DG.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 123,
-      "exportedPath": "Ведение соц сетей/Истории по второстепенным персонажам DG.html",
+      "exportedPath": "ведение-соц-сетей/истории-по-второстепенным-персонажам-dg.html",
       "dependencies": []
     },
     "Ведение соц сетей/Комиксы с ситуациями из убежища с Айзеком.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Ведение соц сетей/Комиксы с ситуациями из убежища с Айзеком.html",
+      "exportedPath": "ведение-соц-сетей/комиксы-с-ситуациями-из-убежища-с-айзеком.html",
       "dependencies": []
     },
     "Ведение соц сетей/Контент план.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 369,
-      "exportedPath": "Ведение соц сетей/Контент план.html",
+      "exportedPath": "ведение-соц-сетей/контент-план.html",
       "dependencies": []
     },
     "Ведение соц сетей/Легенда о Смерти.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Ведение соц сетей/Легенда о Смерти.html",
+      "exportedPath": "ведение-соц-сетей/легенда-о-смерти.html",
       "dependencies": []
     },
     "Ведение соц сетей/Описания божеств.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Ведение соц сетей/Описания божеств.html",
+      "exportedPath": "ведение-соц-сетей/описания-божеств.html",
       "dependencies": []
     },
     "Ведение соц сетей/Освобождение души глазами очевидца в стиле летописи.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Ведение соц сетей/Освобождение души глазами очевидца в стиле летописи.html",
+      "exportedPath": "ведение-соц-сетей/освобождение-души-глазами-очевидца-в-стиле-летописи.html",
       "dependencies": []
     },
     "Ведение соц сетей/Отдельная линия персонажа, который был Проводником до Гаэля.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Ведение соц сетей/Отдельная линия персонажа, который был Проводником до Гаэля.html",
+      "exportedPath": "ведение-соц-сетей/отдельная-линия-персонажа,-который-был-проводником-до-гаэля.html",
       "dependencies": []
     },
     "Ведение соц сетей/Хоррор комиксы.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Ведение соц сетей/Хоррор комиксы.html",
+      "exportedPath": "ведение-соц-сетей/хоррор-комиксы.html",
       "dependencies": []
     },
     "Доклады/Статья DTF.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 30807,
-      "exportedPath": "Доклады/Статья DTF.html",
+      "exportedPath": "доклады/статья-dtf.html",
       "dependencies": []
     },
     "Доклады/Crossworld от идеи до демки.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 27182,
-      "exportedPath": "Доклады/Crossworld от идеи до демки.html",
+      "exportedPath": "доклады/crossworld-от-идеи-до-демки.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Вторая глава/Локации/Деревенский дом.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 370,
-      "exportedPath": "Истории/Проводник Смерти/Вторая глава/Локации/Деревенский дом.html",
+      "exportedPath": "истории/проводник-смерти/вторая-глава/локации/деревенский-дом.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Вторая глава/Локации/Дорога.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 223,
-      "exportedPath": "Истории/Проводник Смерти/Вторая глава/Локации/Дорога.html",
+      "exportedPath": "истории/проводник-смерти/вторая-глава/локации/дорога.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Вторая глава/Локации/Карета.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 548,
-      "exportedPath": "Истории/Проводник Смерти/Вторая глава/Локации/Карета.html",
+      "exportedPath": "истории/проводник-смерти/вторая-глава/локации/карета.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Вторая глава/Локации/Лагерь фанатиков(вход).canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 359,
-      "exportedPath": "Истории/Проводник Смерти/Вторая глава/Локации/Лагерь фанатиков(вход).html",
+      "exportedPath": "истории/проводник-смерти/вторая-глава/локации/лагерь-фанатиков(вход).html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Вторая глава/Локации/Лагерь фанатиков(центр).canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 344,
-      "exportedPath": "Истории/Проводник Смерти/Вторая глава/Локации/Лагерь фанатиков(центр).html",
+      "exportedPath": "истории/проводник-смерти/вторая-глава/локации/лагерь-фанатиков(центр).html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Вторая глава/Локации/Лагерь фанатиков(шатер Клима).canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 520,
-      "exportedPath": "Истории/Проводник Смерти/Вторая глава/Локации/Лагерь фанатиков(шатер Клима).html",
+      "exportedPath": "истории/проводник-смерти/вторая-глава/локации/лагерь-фанатиков(шатер-клима).html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Вторая глава/Локации/Нексус.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 278,
-      "exportedPath": "Истории/Проводник Смерти/Вторая глава/Локации/Нексус.html",
+      "exportedPath": "истории/проводник-смерти/вторая-глава/локации/нексус.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Вторая глава/Локации/Опушка.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 266,
-      "exportedPath": "Истории/Проводник Смерти/Вторая глава/Локации/Опушка.html",
+      "exportedPath": "истории/проводник-смерти/вторая-глава/локации/опушка.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Вторая глава/Локации/Перекрытая дорога.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 355,
-      "exportedPath": "Истории/Проводник Смерти/Вторая глава/Локации/Перекрытая дорога.html",
+      "exportedPath": "истории/проводник-смерти/вторая-глава/локации/перекрытая-дорога.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Вторая глава/Локации/Рядом с каретой.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 312,
-      "exportedPath": "Истории/Проводник Смерти/Вторая глава/Локации/Рядом с каретой.html",
+      "exportedPath": "истории/проводник-смерти/вторая-глава/локации/рядом-с-каретой.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Вторая глава/Список локаций.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 405,
-      "exportedPath": "Истории/Проводник Смерти/Вторая глава/Список локаций.html",
+      "exportedPath": "истории/проводник-смерти/вторая-глава/список-локаций.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Вторая глава/Список персонажей.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 214,
-      "exportedPath": "Истории/Проводник Смерти/Вторая глава/Список персонажей.html",
+      "exportedPath": "истории/проводник-смерти/вторая-глава/список-персонажей.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Первая глава/Локации/Дверь в Нексус.canvas": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 404,
-      "exportedPath": "Истории/Проводник Смерти/Первая глава/Локации/Дверь в Нексус.html",
-      "dependencies": []
+      "modifiedTime": 1738058580422,
+      "sourceSize": 403,
+      "exportedPath": "истории/проводник-смерти/первая-глава/локации/дверь-в-нексус.html",
+      "dependencies": [
+        "lib/media/door_v_nexus_1080x1920.png"
+      ]
     },
     "Истории/Проводник Смерти/Первая глава/Локации/Двор у дома.canvas": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 535,
-      "exportedPath": "Истории/Проводник Смерти/Первая глава/Локации/Двор у дома.html",
-      "dependencies": []
+      "modifiedTime": 1738058580422,
+      "sourceSize": 533,
+      "exportedPath": "истории/проводник-смерти/первая-глава/локации/двор-у-дома.html",
+      "dependencies": [
+        "lib/media/dvor_1080x1920.png",
+        "lib/media/dvor_2400x3300.png"
+      ]
     },
     "Истории/Проводник Смерти/Первая глава/Локации/Дом внутри.canvas": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 603,
-      "exportedPath": "Истории/Проводник Смерти/Первая глава/Локации/Дом внутри.html",
-      "dependencies": []
+      "modifiedTime": 1738058580422,
+      "sourceSize": 602,
+      "exportedPath": "истории/проводник-смерти/первая-глава/локации/дом-внутри.html",
+      "dependencies": [
+        "lib/media/home_1080x1920.png"
+      ]
     },
     "Истории/Проводник Смерти/Первая глава/Локации/Дуб.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 483,
-      "exportedPath": "Истории/Проводник Смерти/Первая глава/Локации/Дуб.html",
+      "exportedPath": "истории/проводник-смерти/первая-глава/локации/дуб.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Первая глава/Локации/Колодец.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 529,
-      "exportedPath": "Истории/Проводник Смерти/Первая глава/Локации/Колодец.html",
+      "exportedPath": "истории/проводник-смерти/первая-глава/локации/колодец.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Первая глава/Локации/Комната Гаэля.canvas": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 531,
-      "exportedPath": "Истории/Проводник Смерти/Первая глава/Локации/Комната Гаэля.html",
-      "dependencies": []
+      "modifiedTime": 1738058580422,
+      "sourceSize": 530,
+      "exportedPath": "истории/проводник-смерти/первая-глава/локации/комната-гаэля.html",
+      "dependencies": [
+        "lib/media/gael_room_1080x1920.png"
+      ]
     },
     "Истории/Проводник Смерти/Первая глава/Локации/Комната Гретель.canvas": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 494,
-      "exportedPath": "Истории/Проводник Смерти/Первая глава/Локации/Комната Гретель.html",
-      "dependencies": []
+      "modifiedTime": 1738058580422,
+      "sourceSize": 493,
+      "exportedPath": "истории/проводник-смерти/первая-глава/локации/комната-гретель.html",
+      "dependencies": [
+        "lib/media/gretel_room_1080x1920-1.png"
+      ]
     },
     "Истории/Проводник Смерти/Первая глава/Локации/Комната Даина.canvas": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 565,
-      "exportedPath": "Истории/Проводник Смерти/Первая глава/Локации/Комната Даина.html",
-      "dependencies": []
+      "modifiedTime": 1738058580422,
+      "sourceSize": 564,
+      "exportedPath": "истории/проводник-смерти/первая-глава/локации/комната-даина.html",
+      "dependencies": [
+        "lib/media/dain_room_1080x1920.png"
+      ]
     },
     "Истории/Проводник Смерти/Первая глава/Локации/Крыльцо.canvas": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 482,
-      "exportedPath": "Истории/Проводник Смерти/Первая глава/Локации/Крыльцо.html",
-      "dependencies": []
+      "modifiedTime": 1738058580422,
+      "sourceSize": 481,
+      "exportedPath": "истории/проводник-смерти/первая-глава/локации/крыльцо.html",
+      "dependencies": [
+        "lib/media/krilco_1080x1920.png"
+      ]
     },
     "Истории/Проводник Смерти/Первая глава/Локации/Кухня.canvas": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 566,
-      "exportedPath": "Истории/Проводник Смерти/Первая глава/Локации/Кухня.html",
-      "dependencies": []
+      "modifiedTime": 1738058580422,
+      "sourceSize": 565,
+      "exportedPath": "истории/проводник-смерти/первая-глава/локации/кухня.html",
+      "dependencies": [
+        "lib/media/kuchnya_1080x1920.png"
+      ]
     },
     "Истории/Проводник Смерти/Первая глава/Локации/Река.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 502,
-      "exportedPath": "Истории/Проводник Смерти/Первая глава/Локации/Река.html",
+      "exportedPath": "истории/проводник-смерти/первая-глава/локации/река.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Первая глава/Локации/Убежище Ганса.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 610,
-      "exportedPath": "Истории/Проводник Смерти/Первая глава/Локации/Убежище Ганса.html",
+      "exportedPath": "истории/проводник-смерти/первая-глава/локации/убежище-ганса.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Первая глава/Локации/Хлев.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 358,
-      "exportedPath": "Истории/Проводник Смерти/Первая глава/Локации/Хлев.html",
+      "exportedPath": "истории/проводник-смерти/первая-глава/локации/хлев.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Первая глава/Список локаций.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 397,
-      "exportedPath": "Истории/Проводник Смерти/Первая глава/Список локаций.html",
+      "exportedPath": "истории/проводник-смерти/первая-глава/список-локаций.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Первая глава/Список персонажей.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 220,
-      "exportedPath": "Истории/Проводник Смерти/Первая глава/Список персонажей.html",
+      "exportedPath": "истории/проводник-смерти/первая-глава/список-персонажей.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Персонажи/Алексия.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 2840,
-      "exportedPath": "Истории/Проводник Смерти/Персонажи/Алексия.html",
+      "exportedPath": "истории/проводник-смерти/персонажи/алексия.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Персонажи/Вель.canvas": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1027,
-      "exportedPath": "Истории/Проводник Смерти/Персонажи/Вель.html",
-      "dependencies": []
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1026,
+      "exportedPath": "истории/проводник-смерти/персонажи/вель.html",
+      "dependencies": [
+        "lib/media/portrait.png"
+      ]
     },
     "Истории/Проводник Смерти/Персонажи/Ганс.canvas": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 3330,
-      "exportedPath": "Истории/Проводник Смерти/Персонажи/Ганс.html",
-      "dependencies": []
+      "modifiedTime": 1738058580422,
+      "sourceSize": 3328,
+      "exportedPath": "истории/проводник-смерти/персонажи/ганс.html",
+      "dependencies": [
+        "lib/media/ганс.png",
+        "lib/media/gans.png"
+      ]
     },
     "Истории/Проводник Смерти/Персонажи/Гаэль.canvas": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 5925,
-      "exportedPath": "Истории/Проводник Смерти/Персонажи/Гаэль.html",
-      "dependencies": []
+      "modifiedTime": 1738058580422,
+      "sourceSize": 5921,
+      "exportedPath": "истории/проводник-смерти/персонажи/гаэль.html",
+      "dependencies": [
+        "lib/media/гаэль.png",
+        "lib/media/гаэль.png",
+        "lib/media/гаэль-1.png",
+        "lib/media/gael.png"
+      ]
     },
     "Истории/Проводник Смерти/Персонажи/Гретель.canvas": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 5982,
-      "exportedPath": "Истории/Проводник Смерти/Персонажи/Гретель.html",
-      "dependencies": []
+      "modifiedTime": 1738058580422,
+      "sourceSize": 5979,
+      "exportedPath": "истории/проводник-смерти/персонажи/гретель.html",
+      "dependencies": [
+        "lib/media/гретель.png",
+        "lib/media/gretel.png",
+        "lib/media/гретель-1.png"
+      ]
     },
     "Истории/Проводник Смерти/Персонажи/Даин.canvas": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 3169,
-      "exportedPath": "Истории/Проводник Смерти/Персонажи/Даин.html",
-      "dependencies": []
+      "modifiedTime": 1738058580422,
+      "sourceSize": 3167,
+      "exportedPath": "истории/проводник-смерти/персонажи/даин.html",
+      "dependencies": [
+        "lib/media/даин.png",
+        "lib/media/dain.png"
+      ]
     },
     "Истории/Проводник Смерти/Персонажи/Зиль.canvas": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 3654,
-      "exportedPath": "Истории/Проводник Смерти/Персонажи/Зиль.html",
-      "dependencies": []
+      "modifiedTime": 1738058580422,
+      "sourceSize": 3652,
+      "exportedPath": "истории/проводник-смерти/персонажи/зиль.html",
+      "dependencies": [
+        "lib/media/зиль.png",
+        "lib/media/ziel.png"
+      ]
     },
     "Истории/Проводник Смерти/Персонажи/Кель.canvas": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1112,
-      "exportedPath": "Истории/Проводник Смерти/Персонажи/Кель.html",
-      "dependencies": []
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1111,
+      "exportedPath": "истории/проводник-смерти/персонажи/кель.html",
+      "dependencies": [
+        "lib/media/portrait.png"
+      ]
     },
     "Истории/Проводник Смерти/Персонажи/Клим.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 4260,
-      "exportedPath": "Истории/Проводник Смерти/Персонажи/Клим.html",
+      "exportedPath": "истории/проводник-смерти/персонажи/клим.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Персонажи/Кот.canvas": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 1873,
-      "exportedPath": "Истории/Проводник Смерти/Персонажи/Кот.html",
-      "dependencies": []
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1871,
+      "exportedPath": "истории/проводник-смерти/персонажи/кот.html",
+      "dependencies": [
+        "lib/media/cat.png",
+        "lib/media/кот.png"
+      ]
     },
     "Истории/Проводник Смерти/Персонажи/Лошадь.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 452,
-      "exportedPath": "Истории/Проводник Смерти/Персонажи/Лошадь.html",
+      "exportedPath": "истории/проводник-смерти/персонажи/лошадь.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Персонажи/Мария.canvas": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 3782,
-      "exportedPath": "Истории/Проводник Смерти/Персонажи/Мария.html",
-      "dependencies": []
+      "modifiedTime": 1738058580422,
+      "sourceSize": 3780,
+      "exportedPath": "истории/проводник-смерти/персонажи/мария.html",
+      "dependencies": [
+        "lib/media/мария.png",
+        "lib/media/mary.png"
+      ]
     },
     "Истории/Проводник Смерти/Персонажи/Марта.canvas": {
-      "modifiedTime": 1738057988144,
-      "sourceSize": 2834,
-      "exportedPath": "Истории/Проводник Смерти/Персонажи/Марта.html",
-      "dependencies": []
+      "modifiedTime": 1738058580422,
+      "sourceSize": 2833,
+      "exportedPath": "истории/проводник-смерти/персонажи/марта.html",
+      "dependencies": [
+        "lib/media/marta.png"
+      ]
     },
     "Истории/Проводник Смерти/Персонажи/Разбойник.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 597,
-      "exportedPath": "Истории/Проводник Смерти/Персонажи/Разбойник.html",
+      "exportedPath": "истории/проводник-смерти/персонажи/разбойник.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Персонажи/Смерть.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 4331,
-      "exportedPath": "Истории/Проводник Смерти/Персонажи/Смерть.html",
+      "exportedPath": "истории/проводник-смерти/персонажи/смерть.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Персонажи/Солдат.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 621,
-      "exportedPath": "Истории/Проводник Смерти/Персонажи/Солдат.html",
+      "exportedPath": "истории/проводник-смерти/персонажи/солдат.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Персонажи/Тибальд.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 2747,
-      "exportedPath": "Истории/Проводник Смерти/Персонажи/Тибальд.html",
+      "exportedPath": "истории/проводник-смерти/персонажи/тибальд.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Третья глава/Список локаций.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Истории/Проводник Смерти/Третья глава/Список локаций.html",
+      "exportedPath": "истории/проводник-смерти/третья-глава/список-локаций.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Третья глава/Список персонажей.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 22,
-      "exportedPath": "Истории/Проводник Смерти/Третья глава/Список персонажей.html",
+      "exportedPath": "истории/проводник-смерти/третья-глава/список-персонажей.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Четвертая глава/Список локаций.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Истории/Проводник Смерти/Четвертая глава/Список локаций.html",
+      "exportedPath": "истории/проводник-смерти/четвертая-глава/список-локаций.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Четвертая глава/Список персонажей.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Истории/Проводник Смерти/Четвертая глава/Список персонажей.html",
+      "exportedPath": "истории/проводник-смерти/четвертая-глава/список-персонажей.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Главы.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 11316,
-      "exportedPath": "Истории/Проводник Смерти/Главы.html",
+      "exportedPath": "истории/проводник-смерти/главы.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Мета-информация.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 1232,
-      "exportedPath": "Истории/Проводник Смерти/Мета-информация.html",
+      "exportedPath": "истории/проводник-смерти/мета-информация.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Синопсис.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 1192,
-      "exportedPath": "Истории/Проводник Смерти/Синопсис.html",
+      "exportedPath": "истории/проводник-смерти/синопсис.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Улучшения.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 2222,
-      "exportedPath": "Истории/Проводник Смерти/Улучшения.html",
+      "exportedPath": "истории/проводник-смерти/улучшения.html",
       "dependencies": []
     },
     "Истории/Проводник Смерти/Фабулы глав.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 6399,
-      "exportedPath": "Истории/Проводник Смерти/Фабулы глав.html",
+      "exportedPath": "истории/проводник-смерти/фабулы-глав.html",
       "dependencies": []
     },
     "Истории/Самурай/Синопсис.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 1754,
-      "exportedPath": "Истории/Самурай/Синопсис.html",
+      "exportedPath": "истории/самурай/синопсис.html",
       "dependencies": []
     },
     "Истории/Чувство Реальности/Синопсис.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 1628,
-      "exportedPath": "Истории/Чувство Реальности/Синопсис.html",
+      "exportedPath": "истории/чувство-реальности/синопсис.html",
       "dependencies": []
     },
     "Истории/Школа Эсперов/Главы.canvas": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 4264,
-      "exportedPath": "Истории/Школа Эсперов/Главы.html",
+      "exportedPath": "истории/школа-эсперов/главы.html",
       "dependencies": []
     },
     "Истории/Школа Эсперов/Синопсис.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 901,
-      "exportedPath": "Истории/Школа Эсперов/Синопсис.html",
+      "exportedPath": "истории/школа-эсперов/синопсис.html",
       "dependencies": []
     },
     "Лог система/Пример работы логгера.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 2150,
-      "exportedPath": "Лог система/Пример работы логгера.html",
+      "exportedPath": "лог-система/пример-работы-логгера.html",
       "dependencies": []
     },
     "Мейн история/Персонажи/Дженни.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 143,
-      "exportedPath": "Мейн история/Персонажи/Дженни.html",
+      "exportedPath": "мейн-история/персонажи/дженни.html",
       "dependencies": []
     },
     "Мейн история/Персонажи/Игрок.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 99,
-      "exportedPath": "Мейн история/Персонажи/Игрок.html",
+      "exportedPath": "мейн-история/персонажи/игрок.html",
       "dependencies": []
     },
     "Мейн история/Термины/Андры.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 496,
-      "exportedPath": "Мейн история/Термины/Андры.html",
+      "exportedPath": "мейн-история/термины/андры.html",
       "dependencies": []
     },
     "Мейн история/Термины/Ассистент.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 400,
-      "exportedPath": "Мейн история/Термины/Ассистент.html",
+      "exportedPath": "мейн-история/термины/ассистент.html",
       "dependencies": []
     },
     "Мейн история/Термины/Барьер осознанности.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 219,
-      "exportedPath": "Мейн история/Термины/Барьер осознанности.html",
+      "exportedPath": "мейн-история/термины/барьер-осознанности.html",
       "dependencies": []
     },
     "Мейн история/Термины/Ваеррон.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 85,
-      "exportedPath": "Мейн история/Термины/Ваеррон.html",
+      "exportedPath": "мейн-история/термины/ваеррон.html",
       "dependencies": []
     },
     "Мейн история/Термины/Инат.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 100,
-      "exportedPath": "Мейн история/Термины/Инат.html",
+      "exportedPath": "мейн-история/термины/инат.html",
       "dependencies": []
     },
     "Мейн история/Термины/Харры.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 1011,
-      "exportedPath": "Мейн история/Термины/Харры.html",
+      "exportedPath": "мейн-история/термины/харры.html",
       "dependencies": []
     },
     "Мейн история/Предыстория.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 11842,
-      "exportedPath": "Мейн история/Предыстория.html",
+      "exportedPath": "мейн-история/предыстория.html",
       "dependencies": []
     },
     "Мейн история/Сюжет.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 4140,
-      "exportedPath": "Мейн история/Сюжет.html",
+      "exportedPath": "мейн-история/сюжет.html",
       "dependencies": []
     },
     "Меню/Меню концовок.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 3730,
-      "exportedPath": "Меню/Меню концовок.html",
-      "dependencies": []
+      "exportedPath": "меню/меню-концовок.html",
+      "dependencies": [
+        "lib/media/pasted-image-20250113142857.png"
+      ]
     },
     "Меню/Меню персонажа.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 867,
-      "exportedPath": "Меню/Меню персонажа.html",
+      "exportedPath": "меню/меню-персонажа.html",
       "dependencies": []
     },
     "Монетизация/Все мысли.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 1206,
-      "exportedPath": "Монетизация/Все мысли.html",
+      "exportedPath": "монетизация/все-мысли.html",
       "dependencies": []
     },
     "Монетизация/Идеи.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 1000,
-      "exportedPath": "Монетизация/Идеи.html",
+      "exportedPath": "монетизация/идеи.html",
+      "dependencies": []
+    },
+    "Навигация Хранилища/Глоссарий тегов.md": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1027,
+      "exportedPath": "навигация-хранилища/глоссарий-тегов.html",
+      "dependencies": []
+    },
+    "Навигация Хранилища/Хранилище.Истории.md": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1502,
+      "exportedPath": "навигация-хранилища/хранилище.истории.html",
+      "dependencies": []
+    },
+    "Навигация Хранилища/Хранилище.МейнИстория.md": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 0,
+      "exportedPath": "навигация-хранилища/хранилище.мейнистория.html",
+      "dependencies": []
+    },
+    "Навигация Хранилища/Хранилище.ОсновноеМеню.md": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 958,
+      "exportedPath": "навигация-хранилища/хранилище.основноеменю.html",
+      "dependencies": []
+    },
+    "Навигация Хранилища/Хранилище.ПроводникСмерти.md": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 0,
+      "exportedPath": "навигация-хранилища/хранилище.проводниксмерти.html",
+      "dependencies": []
+    },
+    "Навигация Хранилища/Хранилище.Самурай.md": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 0,
+      "exportedPath": "навигация-хранилища/хранилище.самурай.html",
+      "dependencies": []
+    },
+    "Навигация Хранилища/Хранилище.СистемыМеханики.md": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 0,
+      "exportedPath": "навигация-хранилища/хранилище.системымеханики.html",
+      "dependencies": []
+    },
+    "Навигация Хранилища/Хранилище.ЧувствоРеальности.md": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 0,
+      "exportedPath": "навигация-хранилища/хранилище.чувствореальности.html",
+      "dependencies": []
+    },
+    "Навигация Хранилища/Хранилище.ШколаЭсперов.md": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 0,
+      "exportedPath": "навигация-хранилища/хранилище.школаэсперов.html",
       "dependencies": []
     },
     "Настройки/Внутренние настройки.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 107,
-      "exportedPath": "Настройки/Внутренние настройки.html",
+      "exportedPath": "настройки/внутренние-настройки.html",
       "dependencies": []
     },
     "Настройки/Графические настройки.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 143,
-      "exportedPath": "Настройки/Графические настройки.html",
+      "exportedPath": "настройки/графические-настройки.html",
       "dependencies": []
     },
     "Настройки/Настройки.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 642,
-      "exportedPath": "Настройки/Настройки.html",
+      "exportedPath": "настройки/настройки.html",
       "dependencies": []
     },
     "Ноды/Диалоговый нод.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 745,
-      "exportedPath": "Ноды/Диалоговый нод.html",
+      "exportedPath": "ноды/диалоговый-нод.html",
       "dependencies": []
     },
     "Ноды/Ивент нод.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 688,
-      "exportedPath": "Ноды/Ивент нод.html",
+      "exportedPath": "ноды/ивент-нод.html",
       "dependencies": []
     },
     "Ноды/Конечный нод.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 484,
-      "exportedPath": "Ноды/Конечный нод.html",
+      "exportedPath": "ноды/конечный-нод.html",
       "dependencies": []
     },
     "Ноды/Лейбл нод.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 576,
-      "exportedPath": "Ноды/Лейбл нод.html",
+      "exportedPath": "ноды/лейбл-нод.html",
       "dependencies": []
     },
     "Ноды/Нод.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 553,
-      "exportedPath": "Ноды/Нод.html",
+      "exportedPath": "ноды/нод.html",
       "dependencies": []
     },
     "Ноды/Сеттинг нод.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 730,
-      "exportedPath": "Ноды/Сеттинг нод.html",
+      "exportedPath": "ноды/сеттинг-нод.html",
       "dependencies": []
     },
     "Ноды/Сплит нод.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 2748,
-      "exportedPath": "Ноды/Сплит нод.html",
+      "exportedPath": "ноды/сплит-нод.html",
       "dependencies": []
     },
     "Ноды/Стартовый нод.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Ноды/Стартовый нод.html",
+      "exportedPath": "ноды/стартовый-нод.html",
       "dependencies": []
     },
     "Ноды/Условный нод.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Ноды/Условный нод.html",
+      "exportedPath": "ноды/условный-нод.html",
       "dependencies": []
     },
     "Ноды/Чойс нод.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Ноды/Чойс нод.html",
+      "exportedPath": "ноды/чойс-нод.html",
       "dependencies": []
     },
     "Общие определения/Выбор.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Общие определения/Выбор.html",
+      "exportedPath": "общие-определения/выбор.html",
       "dependencies": []
     },
     "Общие определения/Ивент.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 127,
-      "exportedPath": "Общие определения/Ивент.html",
+      "exportedPath": "общие-определения/ивент.html",
       "dependencies": []
     },
     "Общие определения/Игровой текст.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 349,
-      "exportedPath": "Общие определения/Игровой текст.html",
+      "exportedPath": "общие-определения/игровой-текст.html",
       "dependencies": []
     },
     "Общие определения/Игровой экран.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Общие определения/Игровой экран.html",
+      "exportedPath": "общие-определения/игровой-экран.html",
       "dependencies": []
     },
     "Общие определения/Имя персонажа.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 206,
-      "exportedPath": "Общие определения/Имя персонажа.html",
+      "exportedPath": "общие-определения/имя-персонажа.html",
       "dependencies": []
     },
     "Общие определения/Интерфейс.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 124,
-      "exportedPath": "Общие определения/Интерфейс.html",
+      "exportedPath": "общие-определения/интерфейс.html",
       "dependencies": []
     },
     "Общие определения/Метки.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Общие определения/Метки.html",
+      "exportedPath": "общие-определения/метки.html",
       "dependencies": []
     },
     "Общие определения/Око.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 1300,
-      "exportedPath": "Общие определения/Око.html",
+      "exportedPath": "общие-определения/око.html",
       "dependencies": []
     },
     "Общие определения/Отображение.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Общие определения/Отображение.html",
+      "exportedPath": "общие-определения/отображение.html",
       "dependencies": []
     },
     "Общие определения/Переменные.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Общие определения/Переменные.html",
+      "exportedPath": "общие-определения/переменные.html",
       "dependencies": []
     },
     "Общие определения/Прозвище.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 399,
-      "exportedPath": "Общие определения/Прозвище.html",
+      "exportedPath": "общие-определения/прозвище.html",
       "dependencies": []
     },
     "Общие определения/Редактор историй.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Общие определения/Редактор историй.html",
+      "exportedPath": "общие-определения/редактор-историй.html",
       "dependencies": []
     },
     "Общие определения/Роль персонажа.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 391,
-      "exportedPath": "Общие определения/Роль персонажа.html",
+      "exportedPath": "общие-определения/роль-персонажа.html",
       "dependencies": []
     },
     "Свойства нодов/Активное свойство нода.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 192,
-      "exportedPath": "Свойства нодов/Активное свойство нода.html",
+      "exportedPath": "свойства-нодов/активное-свойство-нода.html",
       "dependencies": []
     },
     "Свойства нодов/Гибко-разветвленное свойство нода.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 240,
-      "exportedPath": "Свойства нодов/Гибко-разветвленное свойство нода.html",
+      "exportedPath": "свойства-нодов/гибко-разветвленное-свойство-нода.html",
       "dependencies": []
     },
     "Свойства нодов/Завершающее свойство нода.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 170,
-      "exportedPath": "Свойства нодов/Завершающее свойство нода.html",
+      "exportedPath": "свойства-нодов/завершающее-свойство-нода.html",
       "dependencies": []
     },
     "Свойства нодов/Конфигурационное свойство нода.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 270,
-      "exportedPath": "Свойства нодов/Конфигурационное свойство нода.html",
+      "exportedPath": "свойства-нодов/конфигурационное-свойство-нода.html",
       "dependencies": []
     },
     "Свойства нодов/Переменное свойства нода.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 187,
-      "exportedPath": "Свойства нодов/Переменное свойства нода.html",
+      "exportedPath": "свойства-нодов/переменное-свойства-нода.html",
       "dependencies": []
     },
     "Свойства нодов/Разделяющее свойство нода.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 277,
-      "exportedPath": "Свойства нодов/Разделяющее свойство нода.html",
+      "exportedPath": "свойства-нодов/разделяющее-свойство-нода.html",
       "dependencies": []
     },
     "Свойства нодов/Сквозное свойство нода.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 217,
-      "exportedPath": "Свойства нодов/Сквозное свойство нода.html",
+      "exportedPath": "свойства-нодов/сквозное-свойство-нода.html",
       "dependencies": []
     },
     "Свойства нодов/Текстовое свойство нода.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 238,
-      "exportedPath": "Свойства нодов/Текстовое свойство нода.html",
+      "exportedPath": "свойства-нодов/текстовое-свойство-нода.html",
       "dependencies": []
     },
     "Свойства нодов/Тупиковое свойство нода.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 146,
-      "exportedPath": "Свойства нодов/Тупиковое свойство нода.html",
+      "exportedPath": "свойства-нодов/тупиковое-свойство-нода.html",
       "dependencies": []
     },
     "Свойства нодов/Управляющее свойство нода.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 206,
-      "exportedPath": "Свойства нодов/Управляющее свойство нода.html",
+      "exportedPath": "свойства-нодов/управляющее-свойство-нода.html",
       "dependencies": []
     },
     "Системы/Система воспроизведения контента.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Системы/Система воспроизведения контента.html",
+      "exportedPath": "системы/система-воспроизведения-контента.html",
       "dependencies": []
     },
     "Системы/Система временных линий.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Системы/Система временных линий.html",
+      "exportedPath": "системы/система-временных-линий.html",
       "dependencies": []
     },
     "Системы/Система выборов.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 1653,
-      "exportedPath": "Системы/Система выборов.html",
+      "exportedPath": "системы/система-выборов.html",
       "dependencies": []
     },
     "Системы/Система переходов.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 754,
-      "exportedPath": "Системы/Система переходов.html",
+      "exportedPath": "системы/система-переходов.html",
       "dependencies": []
     },
     "Системы/Система подведения итогов главы.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 0,
-      "exportedPath": "Системы/Система подведения итогов главы.html",
+      "exportedPath": "системы/система-подведения-итогов-главы.html",
+      "dependencies": []
+    },
+    "Cashes/Концепты персонажей/Гаэль.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 305825,
+      "exportedPath": "cashes/концепты-персонажей/гаэль.png",
+      "dependencies": []
+    },
+    "Cashes/1.1.Раскадровка.jpg": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 107137,
+      "exportedPath": "cashes/1.1.раскадровка.jpg",
+      "dependencies": []
+    },
+    "Cashes/1.Задумка.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 246089,
+      "exportedPath": "cashes/1.задумка.png",
+      "dependencies": []
+    },
+    "Cashes/1.Раскадровка.jpg": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 116235,
+      "exportedPath": "cashes/1.раскадровка.jpg",
+      "dependencies": []
+    },
+    "Cashes/2.Задумка.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 100711,
+      "exportedPath": "cashes/2.задумка.png",
+      "dependencies": []
+    },
+    "Cashes/Ганс.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1609472,
+      "exportedPath": "cashes/ганс.png",
+      "dependencies": []
+    },
+    "Cashes/Гаэль.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1272814,
+      "exportedPath": "cashes/гаэль.png",
+      "dependencies": []
+    },
+    "Cashes/Гаэль 1.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1530251,
+      "exportedPath": "cashes/гаэль-1.png",
+      "dependencies": []
+    },
+    "Cashes/Гаэль_дляпоста.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1422904,
+      "exportedPath": "cashes/гаэль_дляпоста.png",
+      "dependencies": []
+    },
+    "Cashes/Гретель.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 970069,
+      "exportedPath": "cashes/гретель.png",
+      "dependencies": []
+    },
+    "Cashes/Гретель 1.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1374820,
+      "exportedPath": "cashes/гретель-1.png",
+      "dependencies": []
+    },
+    "Cashes/Даин.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1749765,
+      "exportedPath": "cashes/даин.png",
+      "dependencies": []
+    },
+    "Cashes/Зиль.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1295170,
+      "exportedPath": "cashes/зиль.png",
+      "dependencies": []
+    },
+    "Cashes/Комната Даина (1).md": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 248,
+      "exportedPath": "cashes/комната-даина-(1).html",
+      "dependencies": []
+    },
+    "Cashes/Кот.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1048207,
+      "exportedPath": "cashes/кот.png",
+      "dependencies": []
+    },
+    "Cashes/Мария.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1238698,
+      "exportedPath": "cashes/мария.png",
+      "dependencies": []
+    },
+    "Cashes/Марта.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1483196,
+      "exportedPath": "cashes/марта.png",
+      "dependencies": []
+    },
+    "Cashes/Cat.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 243370,
+      "exportedPath": "cashes/cat.png",
+      "dependencies": []
+    },
+    "Cashes/Dain.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 502959,
+      "exportedPath": "cashes/dain.png",
+      "dependencies": []
+    },
+    "Cashes/Dain_room_1080x1920.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1633865,
+      "exportedPath": "cashes/dain_room_1080x1920.png",
+      "dependencies": []
+    },
+    "Cashes/Door_v_Nexus_1080x1920.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1445145,
+      "exportedPath": "cashes/door_v_nexus_1080x1920.png",
+      "dependencies": []
+    },
+    "Cashes/Dvor_1080x1920.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1849284,
+      "exportedPath": "cashes/dvor_1080x1920.png",
+      "dependencies": []
+    },
+    "Cashes/Dvor_2400x3300.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 5626065,
+      "exportedPath": "cashes/dvor_2400x3300.png",
+      "dependencies": []
+    },
+    "Cashes/Gael.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 409715,
+      "exportedPath": "cashes/gael.png",
+      "dependencies": []
+    },
+    "Cashes/Gael_room_1080x1920.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1876928,
+      "exportedPath": "cashes/gael_room_1080x1920.png",
+      "dependencies": []
+    },
+    "Cashes/Gans.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 417155,
+      "exportedPath": "cashes/gans.png",
+      "dependencies": []
+    },
+    "Cashes/Gretel.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 418412,
+      "exportedPath": "cashes/gretel.png",
+      "dependencies": []
+    },
+    "Cashes/Gretel_room_1080x1920.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 4201904,
+      "exportedPath": "cashes/gretel_room_1080x1920.png",
+      "dependencies": []
+    },
+    "Cashes/Gretel_room_1080x1920 1.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 4201904,
+      "exportedPath": "cashes/gretel_room_1080x1920-1.png",
+      "dependencies": []
+    },
+    "Cashes/Home_1080x1920.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1972606,
+      "exportedPath": "cashes/home_1080x1920.png",
+      "dependencies": []
+    },
+    "Cashes/Krilco_1080x1920.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1625931,
+      "exportedPath": "cashes/krilco_1080x1920.png",
+      "dependencies": []
+    },
+    "Cashes/Kuchnya_1080x1920.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 2153804,
+      "exportedPath": "cashes/kuchnya_1080x1920.png",
+      "dependencies": []
+    },
+    "Cashes/Marta.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 423451,
+      "exportedPath": "cashes/marta.png",
+      "dependencies": []
+    },
+    "Cashes/Mary.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 345565,
+      "exportedPath": "cashes/mary.png",
+      "dependencies": []
+    },
+    "Cashes/Pasted image 20250113142857.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 121651,
+      "exportedPath": "cashes/pasted-image-20250113142857.png",
+      "dependencies": []
+    },
+    "Cashes/Portrait.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 73165,
+      "exportedPath": "cashes/portrait.png",
+      "dependencies": []
+    },
+    "Cashes/Ziel.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 377613,
+      "exportedPath": "cashes/ziel.png",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 47,
       "exportedPath": "index.html",
       "dependencies": []
     },
+    "lib/media/2.задумка.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 100711,
+      "exportedPath": "lib/media/2.задумка.png",
+      "dependencies": []
+    },
+    "lib/media/1.задумка.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 246089,
+      "exportedPath": "lib/media/1.задумка.png",
+      "dependencies": []
+    },
+    "lib/media/1.раскадровка.jpg": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 116235,
+      "exportedPath": "lib/media/1.раскадровка.jpg",
+      "dependencies": []
+    },
+    "lib/media/1.1.раскадровка.jpg": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 107137,
+      "exportedPath": "lib/media/1.1.раскадровка.jpg",
+      "dependencies": []
+    },
+    "lib/media/гаэль_дляпоста.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1422904,
+      "exportedPath": "lib/media/гаэль_дляпоста.png",
+      "dependencies": []
+    },
+    "lib/media/door_v_nexus_1080x1920.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1445145,
+      "exportedPath": "lib/media/door_v_nexus_1080x1920.png",
+      "dependencies": []
+    },
+    "lib/media/dvor_1080x1920.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1849284,
+      "exportedPath": "lib/media/dvor_1080x1920.png",
+      "dependencies": []
+    },
+    "lib/media/dvor_2400x3300.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 5626065,
+      "exportedPath": "lib/media/dvor_2400x3300.png",
+      "dependencies": []
+    },
+    "lib/media/home_1080x1920.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1972606,
+      "exportedPath": "lib/media/home_1080x1920.png",
+      "dependencies": []
+    },
+    "lib/media/gael_room_1080x1920.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1876928,
+      "exportedPath": "lib/media/gael_room_1080x1920.png",
+      "dependencies": []
+    },
+    "lib/media/gretel_room_1080x1920-1.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 4201904,
+      "exportedPath": "lib/media/gretel_room_1080x1920-1.png",
+      "dependencies": []
+    },
+    "lib/media/dain_room_1080x1920.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1633865,
+      "exportedPath": "lib/media/dain_room_1080x1920.png",
+      "dependencies": []
+    },
+    "lib/media/krilco_1080x1920.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1625931,
+      "exportedPath": "lib/media/krilco_1080x1920.png",
+      "dependencies": []
+    },
+    "lib/media/kuchnya_1080x1920.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 2153804,
+      "exportedPath": "lib/media/kuchnya_1080x1920.png",
+      "dependencies": []
+    },
+    "lib/media/portrait.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 73165,
+      "exportedPath": "lib/media/portrait.png",
+      "dependencies": []
+    },
+    "lib/media/ганс.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1609472,
+      "exportedPath": "lib/media/ганс.png",
+      "dependencies": []
+    },
+    "lib/media/gans.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 417155,
+      "exportedPath": "lib/media/gans.png",
+      "dependencies": []
+    },
+    "lib/media/гаэль.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1272814,
+      "exportedPath": "lib/media/гаэль.png",
+      "dependencies": []
+    },
+    "lib/media/гаэль-1.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1530251,
+      "exportedPath": "lib/media/гаэль-1.png",
+      "dependencies": []
+    },
+    "lib/media/gael.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 409715,
+      "exportedPath": "lib/media/gael.png",
+      "dependencies": []
+    },
+    "lib/media/гретель.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 970069,
+      "exportedPath": "lib/media/гретель.png",
+      "dependencies": []
+    },
+    "lib/media/gretel.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 418412,
+      "exportedPath": "lib/media/gretel.png",
+      "dependencies": []
+    },
+    "lib/media/гретель-1.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1374820,
+      "exportedPath": "lib/media/гретель-1.png",
+      "dependencies": []
+    },
+    "lib/media/даин.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1749765,
+      "exportedPath": "lib/media/даин.png",
+      "dependencies": []
+    },
+    "lib/media/dain.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 502959,
+      "exportedPath": "lib/media/dain.png",
+      "dependencies": []
+    },
+    "lib/media/зиль.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1295170,
+      "exportedPath": "lib/media/зиль.png",
+      "dependencies": []
+    },
+    "lib/media/ziel.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 377613,
+      "exportedPath": "lib/media/ziel.png",
+      "dependencies": []
+    },
+    "lib/media/cat.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 243370,
+      "exportedPath": "lib/media/cat.png",
+      "dependencies": []
+    },
+    "lib/media/кот.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1048207,
+      "exportedPath": "lib/media/кот.png",
+      "dependencies": []
+    },
+    "lib/media/мария.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1238698,
+      "exportedPath": "lib/media/мария.png",
+      "dependencies": []
+    },
+    "lib/media/mary.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 345565,
+      "exportedPath": "lib/media/mary.png",
+      "dependencies": []
+    },
+    "lib/media/marta.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 423451,
+      "exportedPath": "lib/media/marta.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250113142857.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 121651,
+      "exportedPath": "lib/media/pasted-image-20250113142857.png",
+      "dependencies": []
+    },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1738057988144,
+      "modifiedTime": 1738058580422,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 93736,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 131118,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 238,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1738058580422,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     }
   }
