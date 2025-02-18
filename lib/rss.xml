@@ -1,4 +1,78 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Crossworld]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Crossworld</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 18 Feb 2025 11:31:01 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 18 Feb 2025 11:31:01 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[index]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Crossworld]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Crossworld</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 18 Feb 2025 11:54:02 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 18 Feb 2025 11:54:00 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Х.ОсновноеМеню]]></title><description><![CDATA[<a class="tag" href="?query=tag:черновик" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#черновик</a> 
+ <br><br><br><a href=".?query=tag:черновик" class="tag" target="_blank" rel="noopener nofollow">#черновик</a> ]]></description><link>000.навигация-хранилища\х.основноеменю.html</link><guid isPermaLink="false">000.Навигация Хранилища/Х.ОсновноеМеню.md</guid><pubDate>Tue, 18 Feb 2025 11:33:58 GMT</pubDate></item><item><title><![CDATA[Х.ПроводникСмерти]]></title><description><![CDATA[<a class="tag" href="?query=tag:в_разработке" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#в_разработке</a> 
+ <br><br><br><a href=".?query=tag:в_разработке" class="tag" target="_blank" rel="noopener nofollow">#в_разработке</a> ]]></description><link>000.навигация-хранилища\х.проводниксмерти.html</link><guid isPermaLink="false">000.Навигация Хранилища/Х.ПроводникСмерти.md</guid><pubDate>Tue, 18 Feb 2025 11:53:41 GMT</pubDate></item><item><title><![CDATA[Х.ПроводникСмерти.Персонажи]]></title><description><![CDATA[<a class="tag" href="?query=tag:в_разработке" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#в_разработке</a> 
+ <br>
+<br><a class="internal-link" data-href="Алексия.canvas" href="истории\проводник-смерти\персонажи\алексия.html" target="_self" rel="noopener nofollow">Алексия</a>    
+<br><a class="internal-link" data-href="Вель.canvas" href="истории\проводник-смерти\персонажи\вель.html" target="_self" rel="noopener nofollow">Вель</a>          
+<br><a class="internal-link" data-href="Ганс.canvas" href="истории\проводник-смерти\персонажи\ганс.html" target="_self" rel="noopener nofollow">Ганс</a>          
+<br><a class="internal-link" data-href="Гаэль.canvas" href="истории\проводник-смерти\персонажи\гаэль.html" target="_self" rel="noopener nofollow">Гаэль</a>        
+<br><a class="internal-link" data-href="Гретель.canvas" href="истории\проводник-смерти\персонажи\гретель.html" target="_self" rel="noopener nofollow">Гретель</a>    
+<br><a class="internal-link" data-href="Даин.canvas" href="истории\проводник-смерти\персонажи\даин.html" target="_self" rel="noopener nofollow">Даин</a>          
+<br><a class="internal-link" data-href="Зиль.canvas" href="истории\проводник-смерти\персонажи\зиль.html" target="_self" rel="noopener nofollow">Зиль</a>          
+<br><a class="internal-link" data-href="Кель.canvas" href="истории\проводник-смерти\персонажи\кель.html" target="_self" rel="noopener nofollow">Кель</a>          
+<br><a class="internal-link" data-href="Клим.canvas" href="истории\проводник-смерти\персонажи\клим.html" target="_self" rel="noopener nofollow">Клим</a>          
+<br><a class="internal-link" data-href="Кот.canvas" href="истории\проводник-смерти\персонажи\кот.html" target="_self" rel="noopener nofollow">Кот</a>            
+<br><a class="internal-link" data-href="Лошадь.canvas" href="истории\проводник-смерти\персонажи\лошадь.html" target="_self" rel="noopener nofollow">Лошадь</a>      
+<br><a class="internal-link" data-href="Мария.canvas" href="истории\проводник-смерти\персонажи\мария.html" target="_self" rel="noopener nofollow">Мария</a>        
+<br><a class="internal-link" data-href="Марта.canvas" href="истории\проводник-смерти\персонажи\марта.html" target="_self" rel="noopener nofollow">Марта</a>        
+<br><a class="internal-link" data-href="Разбойник.canvas" href="истории\проводник-смерти\персонажи\разбойник.html" target="_self" rel="noopener nofollow">Разбойник</a>
+<br><a class="internal-link" data-href="Смерть.canvas" href="истории\проводник-смерти\персонажи\смерть.html" target="_self" rel="noopener nofollow">Смерть</a>      
+<br><a class="internal-link" data-href="Солдат.canvas" href="истории\проводник-смерти\персонажи\солдат.html" target="_self" rel="noopener nofollow">Солдат</a>      
+<br><a class="internal-link" data-href="Тибальд.canvas" href="истории\проводник-смерти\персонажи\тибальд.html" target="_self" rel="noopener nofollow">Тибальд</a>    
+<br><br><a href=".?query=tag:в_разработке" class="tag" target="_blank" rel="noopener nofollow">#в_разработке</a> ]]></description><link>000.навигация-хранилища\х.проводниксмерти.персонажи.html</link><guid isPermaLink="false">000.Навигация Хранилища/Х.ПроводникСмерти.Персонажи.md</guid><pubDate>Tue, 18 Feb 2025 11:53:29 GMT</pubDate></item><item><title><![CDATA[Список локаций]]></title><description><![CDATA[ 
+ <br>
+<br><a class="internal-link" data-href="Рядом с каретой.canvas" href="истории\проводник-смерти\вторая-глава\локации\рядом-с-каретой.html" target="_self" rel="noopener nofollow">Рядом с каретой</a>
+<br><a class="internal-link" data-href="Деревенский дом.canvas" href="истории\проводник-смерти\вторая-глава\локации\деревенский-дом.html" target="_self" rel="noopener nofollow">Деревенский дом</a>
+<br><a class="internal-link" data-href="Дорога.canvas" href="истории\проводник-смерти\вторая-глава\локации\дорога.html" target="_self" rel="noopener nofollow">Дорога</a>
+<br><a class="internal-link" data-href="Карета.canvas" href="истории\проводник-смерти\вторая-глава\локации\карета.html" target="_self" rel="noopener nofollow">Карета</a>
+<br><a class="internal-link" data-href="Лагерь фанатиков(вход).canvas" href="истории\проводник-смерти\вторая-глава\локации\лагерь-фанатиков(вход).html" target="_self" rel="noopener nofollow">Лагерь фанатиков(вход)</a>
+<br><a class="internal-link" data-href="Лагерь фанатиков(центр).canvas" href="истории\проводник-смерти\вторая-глава\локации\лагерь-фанатиков(центр).html" target="_self" rel="noopener nofollow">Лагерь фанатиков(центр)</a>
+<br><a class="internal-link" data-href="Лагерь фанатиков(шатер Клима).canvas" href="истории\проводник-смерти\вторая-глава\локации\лагерь-фанатиков(шатер-клима).html" target="_self" rel="noopener nofollow">Лагерь фанатиков(шатер Клима)</a>
+<br><a class="internal-link" data-href="Нексус.canvas" href="истории\проводник-смерти\вторая-глава\локации\нексус.html" target="_self" rel="noopener nofollow">Нексус</a>
+<br><a class="internal-link" data-href="Опушка.canvas" href="истории\проводник-смерти\вторая-глава\локации\опушка.html" target="_self" rel="noopener nofollow">Опушка</a>
+<br><a class="internal-link" data-href="Перекрытая дорога.canvas" href="истории\проводник-смерти\вторая-глава\локации\перекрытая-дорога.html" target="_self" rel="noopener nofollow">Перекрытая дорога</a>
+]]></description><link>истории\проводник-смерти\вторая-глава\список-локаций.html</link><guid isPermaLink="false">Истории/Проводник Смерти/Вторая глава/Список локаций.md</guid><pubDate>Tue, 18 Feb 2025 11:50:12 GMT</pubDate></item><item><title><![CDATA[Список персонажей]]></title><description><![CDATA[ 
+ <br>
+<br><a class="internal-link" data-href="Клим.canvas" href="истории\проводник-смерти\персонажи\клим.html" target="_self" rel="noopener nofollow">Клим</a>
+<br><a class="internal-link" data-href="Алексия.canvas" href="истории\проводник-смерти\персонажи\алексия.html" target="_self" rel="noopener nofollow">Алексия</a>
+<br><a class="internal-link" data-href="Гаэль.canvas" href="истории\проводник-смерти\персонажи\гаэль.html" target="_self" rel="noopener nofollow">Гаэль</a>
+<br><a class="internal-link" data-href="Кот.canvas" href="истории\проводник-смерти\персонажи\кот.html" target="_self" rel="noopener nofollow">Кот</a>
+<br><a class="internal-link" data-href="Лошадь.canvas" href="истории\проводник-смерти\персонажи\лошадь.html" target="_self" rel="noopener nofollow">Лошадь</a>
+<br><a class="internal-link" data-href="Смерть.canvas" href="истории\проводник-смерти\персонажи\смерть.html" target="_self" rel="noopener nofollow">Смерть</a>
+<br><a class="internal-link" data-href="Солдат.canvas" href="истории\проводник-смерти\персонажи\солдат.html" target="_self" rel="noopener nofollow">Солдат</a>
+<br><a class="internal-link" data-href="Тибальд.canvas" href="истории\проводник-смерти\персонажи\тибальд.html" target="_self" rel="noopener nofollow">Тибальд</a>
+<br><a class="internal-link" data-href="Разбойник.canvas" href="истории\проводник-смерти\персонажи\разбойник.html" target="_self" rel="noopener nofollow">Разбойник</a>
+]]></description><link>истории\проводник-смерти\вторая-глава\список-персонажей.html</link><guid isPermaLink="false">Истории/Проводник Смерти/Вторая глава/Список персонажей.md</guid><pubDate>Tue, 18 Feb 2025 11:51:56 GMT</pubDate></item><item><title><![CDATA[Список локаций]]></title><description><![CDATA[ 
+ <br>
+<br><a class="internal-link" data-href="Хлев.canvas" href="истории\проводник-смерти\первая-глава\локации\хлев.html" target="_self" rel="noopener nofollow">Хлев</a>
+<br><a class="internal-link" data-href="Дверь в Нексус.canvas" href="истории\проводник-смерти\первая-глава\локации\дверь-в-нексус.html" target="_self" rel="noopener nofollow">Дверь</a>
+<br><a class="internal-link" data-href="Двор у дома.canvas" href="истории\проводник-смерти\первая-глава\локации\двор-у-дома.html" target="_self" rel="noopener nofollow">Двор</a>
+<br><a class="internal-link" data-href="Дом внутри.canvas" href="истории\проводник-смерти\первая-глава\локации\дом-внутри.html" target="_self" rel="noopener nofollow">Дом</a>
+<br><a class="internal-link" data-href="Дуб.canvas" href="истории\проводник-смерти\первая-глава\локации\дуб.html" target="_self" rel="noopener nofollow">Дуб</a>
+<br><a class="internal-link" data-href="Колодец.canvas" href="истории\проводник-смерти\первая-глава\локации\колодец.html" target="_self" rel="noopener nofollow">Колодец</a>
+<br><a class="internal-link" data-href="Комната Гаэля.canvas" href="истории\проводник-смерти\первая-глава\локации\комната-гаэля.html" target="_self" rel="noopener nofollow">Комната Гаэля</a>
+<br><a class="internal-link" data-href="Комната Гретель.canvas" href="истории\проводник-смерти\первая-глава\локации\комната-гретель.html" target="_self" rel="noopener nofollow">Комната Гретель</a>
+<br><a class="internal-link" data-href="Комната Даина.canvas" href="истории\проводник-смерти\первая-глава\локации\комната-даина.html" target="_self" rel="noopener nofollow">Комната Даина</a>
+<br><a class="internal-link" data-href="Крыльцо.canvas" href="истории\проводник-смерти\первая-глава\локации\крыльцо.html" target="_self" rel="noopener nofollow">Крыльцо</a>
+<br><a class="internal-link" data-href="Кухня.canvas" href="истории\проводник-смерти\первая-глава\локации\кухня.html" target="_self" rel="noopener nofollow">Кухня</a>
+<br><a class="internal-link" data-href="Река.canvas" href="истории\проводник-смерти\первая-глава\локации\река.html" target="_self" rel="noopener nofollow">Река</a>
+<br><a class="internal-link" data-href="Убежище Ганса.canvas" href="истории\проводник-смерти\первая-глава\локации\убежище-ганса.html" target="_self" rel="noopener nofollow">Убежище Ганса</a>
+]]></description><link>истории\проводник-смерти\первая-глава\список-локаций.html</link><guid isPermaLink="false">Истории/Проводник Смерти/Первая глава/Список локаций.md</guid><pubDate>Tue, 18 Feb 2025 11:41:55 GMT</pubDate></item><item><title><![CDATA[Список персонажей]]></title><description><![CDATA[ 
+ <br>
+<br><a class="internal-link" data-href="Марта.canvas" href="истории\проводник-смерти\персонажи\марта.html" target="_self" rel="noopener nofollow">Марта</a>
+<br><a class="internal-link" data-href="Вель.canvas" href="истории\проводник-смерти\персонажи\вель.html" target="_self" rel="noopener nofollow">Вель</a>
+<br><a class="internal-link" data-href="Ганс.canvas" href="истории\проводник-смерти\персонажи\ганс.html" target="_self" rel="noopener nofollow">Ганс</a>
+<br><a class="internal-link" data-href="Гаэль.canvas" href="истории\проводник-смерти\персонажи\гаэль.html" target="_self" rel="noopener nofollow">Гаэль</a>
+<br><a class="internal-link" data-href="Гретель.canvas" href="истории\проводник-смерти\персонажи\гретель.html" target="_self" rel="noopener nofollow">Гретель</a>
+<br><a class="internal-link" data-href="Даин.canvas" href="истории\проводник-смерти\персонажи\даин.html" target="_self" rel="noopener nofollow">Даин</a>
+<br><a class="internal-link" data-href="Зиль.canvas" href="истории\проводник-смерти\персонажи\зиль.html" target="_self" rel="noopener nofollow">Зиль</a>
+<br><a class="internal-link" data-href="Кель.canvas" href="истории\проводник-смерти\персонажи\кель.html" target="_self" rel="noopener nofollow">Кель</a>
+<br><a class="internal-link" data-href="Кот.canvas" href="истории\проводник-смерти\персонажи\кот.html" target="_self" rel="noopener nofollow">Кот</a>
+<br><a class="internal-link" data-href="Мария.canvas" href="истории\проводник-смерти\персонажи\мария.html" target="_self" rel="noopener nofollow">Мария</a>
+]]></description><link>истории\проводник-смерти\первая-глава\список-персонажей.html</link><guid isPermaLink="false">Истории/Проводник Смерти/Первая глава/Список персонажей.md</guid><pubDate>Tue, 18 Feb 2025 11:47:02 GMT</pubDate></item><item><title><![CDATA[Список персонажей]]></title><description><![CDATA[ 
+ <br>
+<br><a class="internal-link" data-href="Гаэль.canvas" href="истории\проводник-смерти\персонажи\гаэль.html" target="_self" rel="noopener nofollow">Гаэль</a>
+]]></description><link>истории\проводник-смерти\третья-глава\список-персонажей.html</link><guid isPermaLink="false">Истории/Проводник Смерти/Третья глава/Список персонажей.md</guid><pubDate>Tue, 18 Feb 2025 11:52:51 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[ 
  <br><a data-href="Х.ОсновноеМеню" href="000.навигация-хранилища\х.основноеменю.html" class="internal-link" target="_self" rel="noopener nofollow">Х.ОсновноеМеню</a>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Tue, 18 Feb 2025 11:30:53 GMT</pubDate></item><item><title><![CDATA[Глоссарий тегов]]></title><description><![CDATA[<a class="tag" href="?query=tag:черновик" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#черновик</a> <a class="tag" href="?query=tag:на_утверждении" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#на_утверждении</a> <a class="tag" href="?query=tag:в_разработке" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#в_разработке</a> <a class="tag" href="?query=tag:выполнено" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#выполнено</a> <a class="tag" href="?query=tag:не_актуально" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#не_актуально</a> <a class="tag" href="?query=tag:выполнено" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#выполнено</a> 
  <br><a href=".?query=tag:черновик" class="tag" target="_blank" rel="noopener nofollow">#черновик</a> - Этот текст является черновым вариантом и не предназначен для использования в качестве достоверной информации<br>
 <a href=".?query=tag:на_утверждении" class="tag" target="_blank" rel="noopener nofollow">#на_утверждении</a> - Этот текст находится на утверждении и он все еще не является достоверным. Если вам нужны данные, которые помечены таким тегом, свяжитесь с гд и обсудите с ним этот вопрос.<br>
@@ -6,9 +80,7 @@
 <a href=".?query=tag:выполнено" class="tag" target="_blank" rel="noopener nofollow">#выполнено</a> - Этот функционал уже реализован и данный текст можно использовать просто как документацию<br>
 <a href=".?query=tag:не_актуально" class="tag" target="_blank" rel="noopener nofollow">#не_актуально</a> - Информация не актуальна и требует переработки.<br><br><a href=".?query=tag:выполнено" class="tag" target="_blank" rel="noopener nofollow">#выполнено</a>]]></description><link>000.навигация-хранилища\глоссарий-тегов.html</link><guid isPermaLink="false">000.Навигация Хранилища/Глоссарий тегов.md</guid><pubDate>Tue, 28 Jan 2025 10:27:14 GMT</pubDate></item><item><title><![CDATA[Х.Истории]]></title><description><![CDATA[<a class="tag" href="?query=tag:черновик" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#черновик</a> 
  <br><br><br><a href=".?query=tag:черновик" class="tag" target="_blank" rel="noopener nofollow">#черновик</a> ]]></description><link>000.навигация-хранилища\х.истории.html</link><guid isPermaLink="false">000.Навигация Хранилища/Х.Истории.md</guid><pubDate>Tue, 18 Feb 2025 10:52:07 GMT</pubDate></item><item><title><![CDATA[Х.МейнИстория]]></title><description><![CDATA[ 
- ]]></description><link>000.навигация-хранилища\х.мейнистория.html</link><guid isPermaLink="false">000.Навигация Хранилища/Х.МейнИстория.md</guid><pubDate>Mon, 13 Jan 2025 17:35:09 GMT</pubDate></item><item><title><![CDATA[Х.ОсновноеМеню]]></title><description><![CDATA[<a class="tag" href="?query=tag:черновик" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#черновик</a> 
- <br><br><br><a href=".?query=tag:черновик" class="tag" target="_blank" rel="noopener nofollow">#черновик</a> ]]></description><link>000.навигация-хранилища\х.основноеменю.html</link><guid isPermaLink="false">000.Навигация Хранилища/Х.ОсновноеМеню.md</guid><pubDate>Tue, 18 Feb 2025 11:15:02 GMT</pubDate></item><item><title><![CDATA[Х.ПроводникСмерти]]></title><description><![CDATA[<a class="tag" href="?query=tag:черновик" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#черновик</a> 
- <br><br><br><a href=".?query=tag:черновик" class="tag" target="_blank" rel="noopener nofollow">#черновик</a> ]]></description><link>000.навигация-хранилища\х.проводниксмерти.html</link><guid isPermaLink="false">000.Навигация Хранилища/Х.ПроводникСмерти.md</guid><pubDate>Tue, 18 Feb 2025 11:16:00 GMT</pubDate></item><item><title><![CDATA[Х.ПроводникСмерти.Локации]]></title><description><![CDATA[ 
+ ]]></description><link>000.навигация-хранилища\х.мейнистория.html</link><guid isPermaLink="false">000.Навигация Хранилища/Х.МейнИстория.md</guid><pubDate>Mon, 13 Jan 2025 17:35:09 GMT</pubDate></item><item><title><![CDATA[Х.ПроводникСмерти.Локации]]></title><description><![CDATA[ 
  <br><br>
 <br><a class="internal-link" data-href="Хлев.canvas" href="истории\проводник-смерти\первая-глава\локации\хлев.html" target="_self" rel="noopener nofollow">Хлев</a>
 <br><a class="internal-link" data-href="Дверь в Нексус.canvas" href="истории\проводник-смерти\первая-глава\локации\дверь-в-нексус.html" target="_self" rel="noopener nofollow">Дверь</a>
@@ -34,26 +106,7 @@
 <br><a class="internal-link" data-href="Нексус.canvas" href="истории\проводник-смерти\вторая-глава\локации\нексус.html" target="_self" rel="noopener nofollow">Нексус</a>
 <br><a class="internal-link" data-href="Опушка.canvas" href="истории\проводник-смерти\вторая-глава\локации\опушка.html" target="_self" rel="noopener nofollow">Опушка</a>
 <br><a class="internal-link" data-href="Перекрытая дорога.canvas" href="истории\проводник-смерти\вторая-глава\локации\перекрытая-дорога.html" target="_self" rel="noopener nofollow">Перекрытая дорога</a>
-<br><br><br><br><br>]]></description><link>000.навигация-хранилища\х.проводниксмерти.локации.html</link><guid isPermaLink="false">000.Навигация Хранилища/Х.ПроводникСмерти.Локации.md</guid><pubDate>Tue, 18 Feb 2025 11:25:54 GMT</pubDate></item><item><title><![CDATA[Х.ПроводникСмерти.Персонажи]]></title><description><![CDATA[ 
- <br>
-<br><a class="internal-link" data-href="Алексия.canvas" href="истории\проводник-смерти\персонажи\алексия.html" target="_self" rel="noopener nofollow">Алексия</a>    
-<br><a class="internal-link" data-href="Вель.canvas" href="истории\проводник-смерти\персонажи\вель.html" target="_self" rel="noopener nofollow">Вель</a>          
-<br><a class="internal-link" data-href="Ганс.canvas" href="истории\проводник-смерти\персонажи\ганс.html" target="_self" rel="noopener nofollow">Ганс</a>          
-<br><a class="internal-link" data-href="Гаэль.canvas" href="истории\проводник-смерти\персонажи\гаэль.html" target="_self" rel="noopener nofollow">Гаэль</a>        
-<br><a class="internal-link" data-href="Гретель.canvas" href="истории\проводник-смерти\персонажи\гретель.html" target="_self" rel="noopener nofollow">Гретель</a>    
-<br><a class="internal-link" data-href="Даин.canvas" href="истории\проводник-смерти\персонажи\даин.html" target="_self" rel="noopener nofollow">Даин</a>          
-<br><a class="internal-link" data-href="Зиль.canvas" href="истории\проводник-смерти\персонажи\зиль.html" target="_self" rel="noopener nofollow">Зиль</a>          
-<br><a class="internal-link" data-href="Кель.canvas" href="истории\проводник-смерти\персонажи\кель.html" target="_self" rel="noopener nofollow">Кель</a>          
-<br><a class="internal-link" data-href="Клим.canvas" href="истории\проводник-смерти\персонажи\клим.html" target="_self" rel="noopener nofollow">Клим</a>          
-<br><a class="internal-link" data-href="Кот.canvas" href="истории\проводник-смерти\персонажи\кот.html" target="_self" rel="noopener nofollow">Кот</a>            
-<br><a class="internal-link" data-href="Лошадь.canvas" href="истории\проводник-смерти\персонажи\лошадь.html" target="_self" rel="noopener nofollow">Лошадь</a>      
-<br><a class="internal-link" data-href="Мария.canvas" href="истории\проводник-смерти\персонажи\мария.html" target="_self" rel="noopener nofollow">Мария</a>        
-<br><a class="internal-link" data-href="Марта.canvas" href="истории\проводник-смерти\персонажи\марта.html" target="_self" rel="noopener nofollow">Марта</a>        
-<br><a class="internal-link" data-href="Разбойник.canvas" href="истории\проводник-смерти\персонажи\разбойник.html" target="_self" rel="noopener nofollow">Разбойник</a>
-<br><a class="internal-link" data-href="Смерть.canvas" href="истории\проводник-смерти\персонажи\смерть.html" target="_self" rel="noopener nofollow">Смерть</a>      
-<br><a class="internal-link" data-href="Солдат.canvas" href="истории\проводник-смерти\персонажи\солдат.html" target="_self" rel="noopener nofollow">Солдат</a>      
-<br><a class="internal-link" data-href="Тибальд.canvas" href="истории\проводник-смерти\персонажи\тибальд.html" target="_self" rel="noopener nofollow">Тибальд</a>    
-]]></description><link>000.навигация-хранилища\х.проводниксмерти.персонажи.html</link><guid isPermaLink="false">000.Навигация Хранилища/Х.ПроводникСмерти.Персонажи.md</guid><pubDate>Tue, 18 Feb 2025 11:12:16 GMT</pubDate></item><item><title><![CDATA[Х.Самурай]]></title><description><![CDATA[ 
+<br><br><br><br><br>]]></description><link>000.навигация-хранилища\х.проводниксмерти.локации.html</link><guid isPermaLink="false">000.Навигация Хранилища/Х.ПроводникСмерти.Локации.md</guid><pubDate>Tue, 18 Feb 2025 11:25:54 GMT</pubDate></item><item><title><![CDATA[Х.Самурай]]></title><description><![CDATA[ 
  ]]></description><link>000.навигация-хранилища\х.самурай.html</link><guid isPermaLink="false">000.Навигация Хранилища/Х.Самурай.md</guid><pubDate>Mon, 13 Jan 2025 17:34:21 GMT</pubDate></item><item><title><![CDATA[Х.СистемыМеханики]]></title><description><![CDATA[ 
  ]]></description><link>000.навигация-хранилища\х.системымеханики.html</link><guid isPermaLink="false">000.Навигация Хранилища/Х.СистемыМеханики.md</guid><pubDate>Mon, 13 Jan 2025 17:28:11 GMT</pubDate></item><item><title><![CDATA[Х.ЧувствоРеальности]]></title><description><![CDATA[ 
  ]]></description><link>000.навигация-хранилища\х.чувствореальности.html</link><guid isPermaLink="false">000.Навигация Хранилища/Х.ЧувствоРеальности.md</guid><pubDate>Mon, 13 Jan 2025 17:34:21 GMT</pubDate></item><item><title><![CDATA[Х.ШколаЭсперов]]></title><description><![CDATA[ 
@@ -264,42 +317,7 @@ Obsidian — локальный инструмент, поэтому нужно 
 <br>К демо-версии мы полностью переделали интерфейс, он стал более удобным и красивым:<br>Текст также был переписан, теперь у каждого персонажа было несколько концовок. В итоге у игрока был доступ к сотням различным прохождений в, казалось, обычной текстовой игре. <br>Мы также продумали гибкую систему сохранений, ориентируясь на наш любимый Git. Игрок теперь мог пройти одну и ту же историю с разными концовками, каждая из которых сохранялась и могла быть продолжена. Так родилась механика "временных линий".<br>Демоверсия была принято очень тепло, что нас сильно удивило. Мы настолько углубились в проект, что уже не могли оценить его здраво. В какой-то момент разработка шла уже "по привычке", и только ответственность перед командой не позволила забросить проект.<br>
 <br>Будущее
 <br>На самом деле, мы столкнулись еще с огромным количеством проблем о которых здесь не говорилось. У нас не было звукаря и монтажера, а их работу нужно было кому-то делать. Мы столкнулись с проблемами тестирования и поиска багов. Пару раз редактор шалил и приходилось чуть ли не вручную восстанавливать утерянные данные. Но в одном докладе все это не расскажешь.<br>В итоге скажу, что Crossworld, хоть и прошел большой путь, он по сути, только в начале. Уже сейчас написаны новые истории, а в закромах Obsidian хранятся черновики еще нескольких. Мы значительно улучшили интерфейс, игра стала стабильнее, а количество артов в проекте выросло.<br>Недавно в нашу команду присоединилась еще одна художница — тоже Саша. Теперь у нас две Саши, и мы не знаем, как их различать!<br>“Новая” Саша поможет “старой” с фонами и портретами, а также добавит в проект анимации, что мы уже давно хотели сделать, но не могли, так как не обладали нужными навыками.<br>“Новую” Сашу мы, кстати, нашли в Плейхабе. Так что спасибо сообществу за это. <br>Всем спасибо за внимание. Это была команда Credo и ее история. Не бойтесь трудностей — они делают вас теми, кто вы есть!]]></description><link>доклады\crossworld-от-идеи-до-демки.html</link><guid isPermaLink="false">Доклады/Crossworld от идеи до демки.md</guid><pubDate>Wed, 25 Dec 2024 09:24:03 GMT</pubDate></item><item><title><![CDATA[Список локаций]]></title><description><![CDATA[ 
- <br> Рядом с каретой<br>
- Деревенский дом<br>
- Дорога<br>
- Карета<br>
- Лагерь фанатиков(вход)<br>
- Лагерь фанатиков(центр)<br>
- Лагерь фанатиков(шатер Клима)<br>
- Нексус<br>
- Опушка<br>
- Перекрытая дорога]]></description><link>истории\проводник-смерти\вторая-глава\список-локаций.html</link><guid isPermaLink="false">Истории/Проводник Смерти/Вторая глава/Список локаций.md</guid><pubDate>Fri, 28 Jun 2024 03:29:58 GMT</pubDate></item><item><title><![CDATA[Список персонажей]]></title><description><![CDATA[ 
- <br> Клим Алексия Гаэль Кот Лошадь Смерть Солдат Тибальд Разбойник]]></description><link>истории\проводник-смерти\вторая-глава\список-персонажей.html</link><guid isPermaLink="false">Истории/Проводник Смерти/Вторая глава/Список персонажей.md</guid><pubDate>Fri, 28 Jun 2024 03:25:33 GMT</pubDate></item><item><title><![CDATA[Список локаций]]></title><description><![CDATA[ 
- <br> Хлев<br>
- Дверь в Нексус<br>
- Двор у дома<br>
- Дом внутри<br>
- Дуб<br>
- Колодец<br>
- Комната Гаэля<br>
- Комната Гретель<br>
- Комната Даина<br>
- Крыльцо<br>
- Кухня<br>
- Река<br>
- Убежище Ганса]]></description><link>истории\проводник-смерти\первая-глава\список-локаций.html</link><guid isPermaLink="false">Истории/Проводник Смерти/Первая глава/Список локаций.md</guid><pubDate>Thu, 27 Jun 2024 04:12:33 GMT</pubDate></item><item><title><![CDATA[Список персонажей]]></title><description><![CDATA[ 
- <br>  Марта<br>
- Вель<br>
- Ганс<br>
- Гаэль<br>
- Гретель<br>
- Даин<br>
- Зиль<br>
- Кель<br>
- Кот<br>
- Мария]]></description><link>истории\проводник-смерти\первая-глава\список-персонажей.html</link><guid isPermaLink="false">Истории/Проводник Смерти/Первая глава/Список персонажей.md</guid><pubDate>Sun, 07 Jul 2024 06:08:21 GMT</pubDate></item><item><title><![CDATA[Список локаций]]></title><description><![CDATA[ 
- ]]></description><link>истории\проводник-смерти\третья-глава\список-локаций.html</link><guid isPermaLink="false">Истории/Проводник Смерти/Третья глава/Список локаций.md</guid><pubDate>Thu, 04 Jul 2024 06:39:30 GMT</pubDate></item><item><title><![CDATA[Список персонажей]]></title><description><![CDATA[ 
- <br> Гаэль]]></description><link>истории\проводник-смерти\третья-глава\список-персонажей.html</link><guid isPermaLink="false">Истории/Проводник Смерти/Третья глава/Список персонажей.md</guid><pubDate>Thu, 04 Jul 2024 06:41:33 GMT</pubDate></item><item><title><![CDATA[Список локаций]]></title><description><![CDATA[ 
+ ]]></description><link>истории\проводник-смерти\третья-глава\список-локаций.html</link><guid isPermaLink="false">Истории/Проводник Смерти/Третья глава/Список локаций.md</guid><pubDate>Thu, 04 Jul 2024 06:39:30 GMT</pubDate></item><item><title><![CDATA[Список локаций]]></title><description><![CDATA[ 
  ]]></description><link>истории\проводник-смерти\четвертая-глава\список-локаций.html</link><guid isPermaLink="false">Истории/Проводник Смерти/Четвертая глава/Список локаций.md</guid><pubDate>Thu, 04 Jul 2024 17:15:44 GMT</pubDate></item><item><title><![CDATA[Список персонажей]]></title><description><![CDATA[ 
  ]]></description><link>истории\проводник-смерти\четвертая-глава\список-персонажей.html</link><guid isPermaLink="false">Истории/Проводник Смерти/Четвертая глава/Список персонажей.md</guid><pubDate>Thu, 04 Jul 2024 17:15:52 GMT</pubDate></item><item><title><![CDATA[Мета-информация]]></title><description><![CDATA[ 
  <br>Название: Гаэль - Проводник Смерти<br>
