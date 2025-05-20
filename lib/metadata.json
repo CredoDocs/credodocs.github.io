@@ -1,6 +1,6 @@
 {
   "vaultName": "Crossworld",
-  "lastExport": 1744114596336,
+  "lastExport": 1747741162756,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -25,6 +25,7 @@
     "000.Навигация Хранилища/Х.ЧувствоРеальности.Персонажи.md",
     "000.Навигация Хранилища/Х.ШколаЭсперов.md",
     "000.Навигация Хранилища/X.Арт.md",
+    "000.Навигация Хранилища/X.Звук.md",
     "001.Templates/С тегами.md",
     "002.Cashes/Концепты персонажей/Гаэль.png",
     "002.Cashes/1.1.Раскадровка.jpg",
@@ -132,6 +133,11 @@
     "Истории/Проводник Смерти/Улучшения.canvas",
     "Истории/Проводник Смерти/Фабулы глав.md",
     "Истории/Самурай/Синопсис.md",
+    "Истории/Чувство Реальности/Персонажи/Анджела.canvas",
+    "Истории/Чувство Реальности/Персонажи/Иката-сенсей.canvas",
+    "Истории/Чувство Реальности/Персонажи/Иллий.canvas",
+    "Истории/Чувство Реальности/Персонажи/Ман.canvas",
+    "Истории/Чувство Реальности/Персонажи/Муракува-сенсей.canvas",
     "Истории/Чувство Реальности/Главы.canvas",
     "Истории/Чувство Реальности/Кинетический билд.md",
     "Истории/Чувство Реальности/Мета-информация.md",
@@ -305,14 +311,14 @@
       "dependencies": []
     },
     "000.Навигация Хранилища/Х.ОсновноеМеню.md": {
-      "modifiedTime": 1744114596336,
-      "sourceSize": 568,
+      "modifiedTime": 1747741162756,
+      "sourceSize": 682,
       "exportedPath": "000.навигация-хранилища/х.основноеменю.html",
       "dependencies": []
     },
     "000.Навигация Хранилища/Х.ПроводникСмерти.md": {
-      "modifiedTime": 1744114596336,
-      "sourceSize": 1032,
+      "modifiedTime": 1747741162756,
+      "sourceSize": 1031,
       "exportedPath": "000.навигация-хранилища/х.проводниксмерти.html",
       "dependencies": []
     },
@@ -341,8 +347,8 @@
       "dependencies": []
     },
     "000.Навигация Хранилища/Х.ЧувствоРеальности.md": {
-      "modifiedTime": 1744114596336,
-      "sourceSize": 1059,
+      "modifiedTime": 1747741162756,
+      "sourceSize": 1050,
       "exportedPath": "000.навигация-хранилища/х.чувствореальности.html",
       "dependencies": []
     },
@@ -1666,133 +1672,133 @@
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1744114596336,
+      "modifiedTime": 1747741162756,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1744114596336,
+      "modifiedTime": 1747741162756,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1744114596336,
+      "modifiedTime": 1747741162756,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1744114596336,
+      "modifiedTime": 1747741162756,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1744114596336,
+      "modifiedTime": 1747741162756,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1744114596336,
+      "modifiedTime": 1747741162756,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1744114596336,
+      "modifiedTime": 1747741162756,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1744114596336,
+      "modifiedTime": 1747741162756,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1744114596336,
+      "modifiedTime": 1747741162756,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1744114596336,
+      "modifiedTime": 1747741162756,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1744114596336,
+      "modifiedTime": 1747741162756,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1744114596336,
+      "modifiedTime": 1747741162756,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1744114596336,
+      "modifiedTime": 1747741162756,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1744114596336,
+      "modifiedTime": 1747741162756,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1744114596336,
-      "sourceSize": 89447,
+      "modifiedTime": 1747741162756,
+      "sourceSize": 92331,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1744114596336,
+      "modifiedTime": 1747741162756,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1744114596336,
+      "modifiedTime": 1747741162756,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1744114596336,
+      "modifiedTime": 1747741162756,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1744114596336,
-      "sourceSize": 137567,
+      "modifiedTime": 1747741162756,
+      "sourceSize": 138359,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1744114596336,
+      "modifiedTime": 1747741162756,
       "sourceSize": 264,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1744114596336,
+      "modifiedTime": 1747741162756,
       "sourceSize": 48,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1744114596336,
+      "modifiedTime": 1747741162756,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -1822,8 +1828,8 @@
       "dependencies": []
     },
     "000.Навигация Хранилища/Х.Арт.Персонажи.md": {
-      "modifiedTime": 1744114596336,
-      "sourceSize": 114,
+      "modifiedTime": 1747741162756,
+      "sourceSize": 210,
       "exportedPath": "000.навигация-хранилища/х.арт.персонажи.html",
       "dependencies": []
     },
@@ -1834,8 +1840,8 @@
       "dependencies": []
     },
     "000.Навигация Хранилища/Х.Арт.UI.md": {
-      "modifiedTime": 1744114596336,
-      "sourceSize": 0,
+      "modifiedTime": 1747741162756,
+      "sourceSize": 25,
       "exportedPath": "000.навигация-хранилища/х.арт.ui.html",
       "dependencies": []
     },
@@ -1846,14 +1852,14 @@
       "dependencies": []
     },
     "000.Навигация Хранилища/Х.ЧувствоРеальности.Персонажи.md": {
-      "modifiedTime": 1744114596336,
-      "sourceSize": 0,
+      "modifiedTime": 1747741162756,
+      "sourceSize": 277,
       "exportedPath": "000.навигация-хранилища/х.чувствореальности.персонажи.html",
       "dependencies": []
     },
     "000.Навигация Хранилища/X.Арт.md": {
-      "modifiedTime": 1744114596336,
-      "sourceSize": 672,
+      "modifiedTime": 1747741162756,
+      "sourceSize": 669,
       "exportedPath": "000.навигация-хранилища/x.арт.html",
       "dependencies": []
     },
@@ -1873,6 +1879,42 @@
       "modifiedTime": 1744114596336,
       "sourceSize": 2,
       "exportedPath": "истории/чувство-реальности/улучшения.html",
+      "dependencies": []
+    },
+    "000.Навигация Хранилища/X.Звук.md": {
+      "modifiedTime": 1747741162756,
+      "sourceSize": 0,
+      "exportedPath": "000.навигация-хранилища/x.звук.html",
+      "dependencies": []
+    },
+    "Истории/Чувство Реальности/Персонажи/Анджела.canvas": {
+      "modifiedTime": 1747741162756,
+      "sourceSize": 2,
+      "exportedPath": "истории/чувство-реальности/персонажи/анджела.html",
+      "dependencies": []
+    },
+    "Истории/Чувство Реальности/Персонажи/Иката-сенсей.canvas": {
+      "modifiedTime": 1747741162756,
+      "sourceSize": 2,
+      "exportedPath": "истории/чувство-реальности/персонажи/иката-сенсей.html",
+      "dependencies": []
+    },
+    "Истории/Чувство Реальности/Персонажи/Иллий.canvas": {
+      "modifiedTime": 1747741162756,
+      "sourceSize": 2,
+      "exportedPath": "истории/чувство-реальности/персонажи/иллий.html",
+      "dependencies": []
+    },
+    "Истории/Чувство Реальности/Персонажи/Ман.canvas": {
+      "modifiedTime": 1747741162756,
+      "sourceSize": 2,
+      "exportedPath": "истории/чувство-реальности/персонажи/ман.html",
+      "dependencies": []
+    },
+    "Истории/Чувство Реальности/Персонажи/Муракува-сенсей.canvas": {
+      "modifiedTime": 1747741162756,
+      "sourceSize": 2,
+      "exportedPath": "истории/чувство-реальности/персонажи/муракува-сенсей.html",
       "dependencies": []
     }
   }
